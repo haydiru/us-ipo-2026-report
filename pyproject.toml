@@ -1,0 +1,71 @@
+[project]
+name = "ipo-ledger"
+version = "1.0.0"
+description = "Verified Nasdaq/NYSE IPO Compilation & Audit Agent"
+readme = "prd.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pydantic>=2.10.0",
+    "httpx>=0.28.0",
+    "sqlalchemy>=2.0.0",
+    "xlsxwriter>=3.2.0",
+    "openpyxl>=3.1.5",
+    "beautifulsoup4>=4.12.0",
+    "pyyaml>=6.0.0",
+]
+
+[tool.mypy]
+python_version = "3.13"
+strict = true
+warn_unreachable = true
+disallow_any_generics = true
+enable_error_code = ["ignore-without-code", "redundant-expr", "truthy-bool"]
+
+[[tool.mypy.overrides]]
+module = ["xlsxwriter.*", "openpyxl.*", "bs4.*", "yaml.*"]
+ignore_missing_imports = true
+
+[tool.ruff]
+target-version = "py313"
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP", "C4", "SIM", "RUF", "ANN", "TID", "PTH"]
+ignore = []
+
+[tool.ruff.lint.flake8-tidy-imports.banned-api]
+"datetime.datetime.now".msg = "Direct clock access is banned. Inject `ipo_ledger.clock.Clock` and call `clock.now()` so runs are reproducible."
+"datetime.datetime.today".msg = "Direct clock access is banned. Inject `Clock` and call `clock.today()`."
+"requests".msg = "`requests` is banned. Use `ipo_ledger.adapters.edgar.EdgarClient` (rate limit, User-Agent, retries, cache) or the matching secondary adapter."
+"pandas.DataFrame.to_excel".msg = "Do not write xlsx directly. Use `ipo_ledger.report.workbook.build_workbook`, the only sanctioned writer."
+"decimal.Decimal.from_float".msg = "Never convert floats to money. Parse the source string with `domain.types.parse_usd`."
+"pickle".msg = "Pickle is banned. Use Pydantic models serialized to JSON."
+"subprocess".msg = "Subprocess is banned in product code. If you need a new capability, add a script in `.harness/scripts/`."
+
+[tool.ruff.lint.per-file-ignores]
+"src/ipo_ledger/clock.py" = ["TID251"]
+"tests/**" = ["S101", "PLR2004", "ANN"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+filterwarnings = ["ignore::DeprecationWarning", "ignore::pytest.PytestDeprecationWarning"]
+
+[tool.importlinter]
+root_package = "ipo_ledger"
+
+[[tool.importlinter.contracts]]
+name = "Domain is pure"
+type = "forbidden"
+source_modules = ["ipo_ledger.domain"]
+forbidden_modules = ["ipo_ledger.adapters", "ipo_ledger.pipeline", "ipo_ledger.report", "httpx", "sqlalchemy", "xlsxwriter", "requests"]
+
+[[tool.importlinter.contracts]]
+name = "Layered architecture"
+type = "layers"
+layers = [
+    "ipo_ledger.cli",
+    "ipo_ledger.pipeline",
+    "ipo_ledger.report | ipo_ledger.adapters",
+    "ipo_ledger.domain"
+]

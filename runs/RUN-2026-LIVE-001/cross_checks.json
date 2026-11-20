@@ -1,0 +1,2846 @@
+[
+  {
+    "check_id": 1,
+    "cik": "0002085485",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/trad",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"TRAD\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-02-27\", \"offer_price\": \"20.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 2,
+    "cik": "0002080921",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/apc",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"APC\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-02-13\", \"offer_price\": \"18.00\", \"base_shares\": 11111111}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 3,
+    "cik": "0002099906",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/aaco",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"AACO\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-02-19\", \"offer_price\": \"10.00\", \"base_shares\": 20000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 4,
+    "cik": "0002020932",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/agmb",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"AGMB\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-02-05\", \"offer_price\": \"16.00\", \"base_shares\": 12500000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 5,
+    "cik": "0002035832",
+    "source_name": "Nasdaq IPO Calendar",
+    "source_url": "https://www.nasdaq.com/market-activity/ipos/overview?dealId=1295842-108502",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"AKTS\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-01-08\", \"offer_price\": \"18.00\", \"base_shares\": 17650000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 6,
+    "cik": "0002035832",
+    "source_name": "Renaissance Capital / Press Release",
+    "source_url": "https://www.globenewswire.com/news-release/2026/01/08/aktis-pricing",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"AKTS\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-01-09\", \"offer_price\": \"18.00\", \"base_shares\": 17650000}",
+    "all_fields_match": false
+  },
+  {
+    "check_id": 7,
+    "cik": "0002083989",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/alov",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"ALOV\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-01-22\", \"offer_price\": \"10.00\", \"base_shares\": 26100000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 8,
+    "cik": "0002083910",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/arci",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"ARCI\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-01-26\", \"offer_price\": \"10.00\", \"base_shares\": 24000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 9,
+    "cik": "0002083910",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/arci",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"ARCI\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-01-26\", \"offer_price\": \"10.00\", \"base_shares\": 24000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 10,
+    "cik": "0002092897",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/aaci",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"AACI\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-02-18\", \"offer_price\": \"10.00\", \"base_shares\": 22500000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 11,
+    "cik": "0002086545",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/artc",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"ARTC\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-01-07\", \"offer_price\": \"10.00\", \"base_shares\": 22000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 12,
+    "cik": "0002096900",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/acaa",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"ACAA\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-02-18\", \"offer_price\": \"10.00\", \"base_shares\": 25000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 13,
+    "cik": "0002097288",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/bhav",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"BHAV\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-03-20\", \"offer_price\": \"10.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 14,
+    "cik": "0001740604",
+    "source_name": "Renaissance Capital / Press Release",
+    "source_url": "https://www.nyse.com/listings/ipo-center/bitgo",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"BTGO\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-01-21\", \"offer_price\": \"18.00\", \"base_shares\": 11821595}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 15,
+    "cik": "0002079720",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/buda",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"BUDA\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-01-08\", \"offer_price\": \"7.50\", \"base_shares\": 2666667}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 16,
+    "cik": "0002082847",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/bwiv",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"BWIV\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-03-20\", \"offer_price\": \"10.00\", \"base_shares\": 12500000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 17,
+    "cik": "0002085187",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/bobs",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"BOBS\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-02-04\", \"offer_price\": \"17.00\", \"base_shares\": 19450000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 18,
+    "cik": "0002076975",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/brai",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"BRAI\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-02-02\", \"offer_price\": \"20.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 19,
+    "cik": "0002100125",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/caq",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"CAQ\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-02-06\", \"offer_price\": \"10.00\", \"base_shares\": 20000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 20,
+    "cik": "0002089536",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/ceps",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"CEPS\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-02-05\", \"offer_price\": \"10.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 21,
+    "cik": "0002094073",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/ctaa",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"CTAA\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-02-25\", \"offer_price\": \"10.00\", \"base_shares\": 12500000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 22,
+    "cik": "0002091024",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/clbr",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"CLBR\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-02-04\", \"offer_price\": \"10.00\", \"base_shares\": 26000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 23,
+    "cik": "0002088805",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/ipxg",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"IPXG\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-02-11\", \"offer_price\": \"20.00\", \"base_shares\": 20000000}",
+    "all_fields_match": false
+  },
+  {
+    "check_id": 24,
+    "cik": "0002088805",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/ipxg",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"IPXG\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-02-11\", \"offer_price\": \"20.00\", \"base_shares\": 20000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 25,
+    "cik": "0002095161",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/dbca",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"DBCA\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-02-12\", \"offer_price\": \"10.00\", \"base_shares\": 25000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 26,
+    "cik": "0001861123",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/eikn",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"EIKN\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-02-04\", \"offer_price\": \"18.00\", \"base_shares\": 21177600}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 27,
+    "cik": "0001693736",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/eqpt",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"EQPT\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-01-26\", \"offer_price\": \"24.50\", \"base_shares\": 30500000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 28,
+    "cik": "0001788451",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/life",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"LIFE\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-01-28\", \"offer_price\": \"19.00\", \"base_shares\": 10526315}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 29,
+    "cik": "0002090452",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/fgii",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"FGII\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-01-20\", \"offer_price\": \"10.00\", \"base_shares\": 20000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 30,
+    "cik": "0002080126",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/fps",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"FPS\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-07-02\", \"offer_price\": \"49.000\", \"base_shares\": 43650000}",
+    "all_fields_match": false
+  },
+  {
+    "check_id": 31,
+    "cik": "0002080126",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/fps",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"FPS\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-07-02\", \"offer_price\": \"49.000\", \"base_shares\": 43650000}",
+    "all_fields_match": false
+  },
+  {
+    "check_id": 32,
+    "cik": "0001850733",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/fvav",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"FVAV\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-02-26\", \"offer_price\": \"10.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 33,
+    "cik": "0001633369",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/cast",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"CAST\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-03-04\", \"offer_price\": \"20.00\", \"base_shares\": 19782084}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 34,
+    "cik": "0002099232",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/fmac",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"FMAC\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-03-27\", \"offer_price\": \"10.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 35,
+    "cik": "0002091484",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/gled",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"GLED\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-03-06\", \"offer_price\": \"20.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 36,
+    "cik": "0002100782",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/genb",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"GENB\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-02-27\", \"offer_price\": \"16.00\", \"base_shares\": 25000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 37,
+    "cik": "0002098712",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/gix",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"GIX\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-01-28\", \"offer_price\": \"10.00\", \"base_shares\": 22000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 38,
+    "cik": "0002039972",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/gmtl",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"GMTL\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-03-19\", \"offer_price\": \"13.50\", \"base_shares\": 4444400}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 39,
+    "cik": "0002089982",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/hacq",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"HACQ\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-02-12\", \"offer_price\": \"10.00\", \"base_shares\": 25000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 40,
+    "cik": "0002099656",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/hlxc",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"HLXC\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-01-23\", \"offer_price\": \"10.00\", \"base_shares\": 497500}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 41,
+    "cik": "0002099093",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/hcic",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"HCIC\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-02-05\", \"offer_price\": \"10.00\", \"base_shares\": 21000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 42,
+    "cik": "0002091176",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/iaco",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"IACO\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-02-11\", \"offer_price\": \"10.00\", \"base_shares\": 35000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 43,
+    "cik": "0002101135",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/illu",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"ILLU\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-02-27\", \"offer_price\": \"10.00\", \"base_shares\": 20000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 44,
+    "cik": "0002084396",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/ieag",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"IEAG\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-01-16\", \"offer_price\": \"10.00\", \"base_shares\": 30000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 45,
+    "cik": "0002102041",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/ipfx",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"IPFX\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-03-30\", \"offer_price\": \"10.00\", \"base_shares\": 22000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 46,
+    "cik": "0002077785",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/irab",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"IRAB\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-02-03\", \"offer_price\": \"10.00\", \"base_shares\": 15000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 47,
+    "cik": "0002039273",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/jagu",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"JAGU\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-02-11\", \"offer_price\": \"4.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 48,
+    "cik": "0002100805",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/jan",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"JAN\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-11-05\", \"offer_price\": \"28.50\", \"base_shares\": 26250000}",
+    "all_fields_match": false
+  },
+  {
+    "check_id": 49,
+    "cik": "0002086524",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/ktwo",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"KTWO\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-01-30\", \"offer_price\": \"10.00\", \"base_shares\": 12000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 50,
+    "cik": "0002082119",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/kraq",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"KRAQ\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-01-29\", \"offer_price\": \"10.00\", \"base_shares\": 30000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 51,
+    "cik": "0002102713",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/kcac-un",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"KCAC-UN\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-03-05\", \"offer_price\": \"10.00\", \"base_shares\": 20000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 52,
+    "cik": "0002087361",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/mevo",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"MEVO\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-02-02\", \"offer_price\": \"10.00\", \"base_shares\": 27000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 53,
+    "cik": "0002097376",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/mzyx",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"MZYX\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-02-26\", \"offer_price\": \"10.00\", \"base_shares\": 26100000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 54,
+    "cik": "0002097376",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/mzyx",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"MZYX\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-02-26\", \"offer_price\": \"10.00\", \"base_shares\": 26100000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 55,
+    "cik": "0002046386",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/mdln",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"MDLN\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-11-19\", \"offer_price\": \"35.50\", \"base_shares\": 60000000}",
+    "all_fields_match": false
+  },
+  {
+    "check_id": 56,
+    "cik": "0001995075",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/mgn",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"MGN\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-10-28\", \"offer_price\": \"0.50\", \"base_shares\": 10000000}",
+    "all_fields_match": false
+  },
+  {
+    "check_id": 57,
+    "cik": "0002107724",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/mtal",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"MTAL\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-03-12\", \"offer_price\": \"10.00\", \"base_shares\": 20000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 58,
+    "cik": "0002062583",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/mmed",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"MMED\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-03-05\", \"offer_price\": \"20.00\", \"base_shares\": 28000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 59,
+    "cik": "0002094265",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/mlaa",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"MLAA\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-01-28\", \"offer_price\": \"10.00\", \"base_shares\": 31320000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 60,
+    "cik": "0002093484",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/muze",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"MUZE\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-02-02\", \"offer_price\": \"10.00\", \"base_shares\": 17500000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 61,
+    "cik": "0001696556",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/ofrm",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"OFRM\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-02-05\", \"offer_price\": \"18.00\", \"base_shares\": 10997209}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 62,
+    "cik": "0002088325",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/oim",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"OIM\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-01-14\", \"offer_price\": \"10.00\", \"base_shares\": 25000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 63,
+    "cik": "0002101562",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/palo",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"PALO\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-02-19\", \"offer_price\": \"10.00\", \"base_shares\": 15000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 64,
+    "cik": "0002080845",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/payp",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"PAYP\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-03-11\", \"offer_price\": \"16.00\", \"base_shares\": 54987214}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 65,
+    "cik": "0002075320",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/plyx",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"PLYX\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-02-02\", \"offer_price\": \"1.17\", \"base_shares\": 47343297}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 66,
+    "cik": "0002108164",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/pono",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"PONO\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-03-13\", \"offer_price\": \"10.00\", \"base_shares\": 12000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 67,
+    "cik": "0002108164",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/pono",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"PONO\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-03-13\", \"offer_price\": \"10.00\", \"base_shares\": 12000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 68,
+    "cik": "0002093912",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/ptor",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"PTOR\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-01-26\", \"offer_price\": \"10.00\", \"base_shares\": 22000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 69,
+    "cik": "0002087446",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/paac",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"PAAC\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-02-13\", \"offer_price\": \"10.00\", \"base_shares\": 13000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 70,
+    "cik": "0001903508",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/pphc",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"PPHC\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-01-27\", \"offer_price\": \"12.25\", \"base_shares\": 4150000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 71,
+    "cik": "0002083217",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/qadr",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"QADR\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-03-27\", \"offer_price\": \"10.00\", \"base_shares\": 20000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 72,
+    "cik": "0002091712",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/rfam",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"RFAM\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-02-12\", \"offer_price\": \"10.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 73,
+    "cik": "0002077709",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/roc",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"ROC\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-02-20\", \"offer_price\": \"6.00\", \"base_shares\": 4000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 74,
+    "cik": "0002077709",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/roc",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"ROC\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-02-20\", \"offer_price\": \"6.00\", \"base_shares\": 4000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 75,
+    "cik": "0001943421",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/rubi",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"RUBI\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-05-21\", \"offer_price\": \"0.95\", \"base_shares\": 5263160}",
+    "all_fields_match": false
+  },
+  {
+    "check_id": 76,
+    "cik": "0002065636",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/mwh",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"MWH\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-05-28\", \"offer_price\": \"36.00\", \"base_shares\": 15000000}",
+    "all_fields_match": false
+  },
+  {
+    "check_id": 77,
+    "cik": "0002081300",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/ssac",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"SSAC\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-02-06\", \"offer_price\": \"10.00\", \"base_shares\": 15000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 78,
+    "cik": "0002105838",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/suma",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"SUMA\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-03-11\", \"offer_price\": \"10.00\", \"base_shares\": 15000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 79,
+    "cik": "0002068385",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/shaz",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"SHAZ\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-02-19\", \"offer_price\": \"30.00\", \"base_shares\": 4166666}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 80,
+    "cik": "0002086263",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/sorn",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"SORN\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-01-08\", \"offer_price\": \"10.00\", \"base_shares\": 22000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 81,
+    "cik": "0002091222",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/saaq",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"SAAQ\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-01-28\", \"offer_price\": \"10.00\", \"base_shares\": 20000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 82,
+    "cik": "0002097364",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/tmts",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"TMTS\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-02-11\", \"offer_price\": \"10.00\", \"base_shares\": 20000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 83,
+    "cik": "0002098242",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/sviv",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"SVIV\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-02-10\", \"offer_price\": \"20.00\", \"base_shares\": 20000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 84,
+    "cik": "0001778922",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/sgp",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"SGP\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-02-05\", \"offer_price\": \"16.00\", \"base_shares\": 9375000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 85,
+    "cik": "0002092574",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/swmr",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"SWMR\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-03-16\", \"offer_price\": \"5.00\", \"base_shares\": 3000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 86,
+    "cik": "0001756064",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/obai",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"OBAI\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-01-30\", \"offer_price\": \"20.00\", \"base_shares\": 34073681}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 87,
+    "cik": "0002098780",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/trgs",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"TRGS\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-02-26\", \"offer_price\": \"10.00\", \"base_shares\": 20000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 88,
+    "cik": "0002098669",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/uac",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"UAC\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-01-29\", \"offer_price\": \"10.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 89,
+    "cik": "0001827635",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/mane",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"MANE\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-04-29\", \"offer_price\": \"100.00\", \"base_shares\": 3843790}",
+    "all_fields_match": false
+  },
+  {
+    "check_id": 90,
+    "cik": "0001606242",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/vtix",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"VTIX\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-01-26\", \"offer_price\": \"20.00\", \"base_shares\": 34213618}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 91,
+    "cik": "0002081536",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/wpac",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"WPAC\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-01-30\", \"offer_price\": \"10.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 92,
+    "cik": "0002083946",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/wlii",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"WLII\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-02-13\", \"offer_price\": \"10.00\", \"base_shares\": 12500000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 93,
+    "cik": "0002083493",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/xcbe",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"XCBE\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-01-21\", \"offer_price\": \"10.00\", \"base_shares\": 20000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 94,
+    "cik": "0002088103",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/xflh",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"XFLH\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-02-12\", \"offer_price\": \"10.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 95,
+    "cik": "0002088807",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/xsll",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"XSLL\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-01-29\", \"offer_price\": \"10.00\", \"base_shares\": 20000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 96,
+    "cik": "0002086587",
+    "source_name": "Renaissance Capital / Press Release",
+    "source_url": "https://www.nyse.com/listings/ipo-center/york-space",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"YSS\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-01-28\", \"offer_price\": \"34.00\", \"base_shares\": 18500000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 97,
+    "cik": "0002111542",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/acgc",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"ACGC\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-04-07\", \"offer_price\": \"10.00\", \"base_shares\": 20000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 98,
+    "cik": "0002096300",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/avex",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"AVEX\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-06-03\", \"offer_price\": \"27.00\", \"base_shares\": 8000000}",
+    "all_fields_match": false
+  },
+  {
+    "check_id": 99,
+    "cik": "0002096300",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/avex",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"AVEX\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-06-03\", \"offer_price\": \"27.00\", \"base_shares\": 8000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 100,
+    "cik": "0002096362",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/aiai",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"AIAI\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-05-06\", \"offer_price\": \"20.00\", \"base_shares\": 10000000}",
+    "all_fields_match": false
+  },
+  {
+    "check_id": 101,
+    "cik": "0002096362",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/aiai",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"AIAI\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-05-06\", \"offer_price\": \"20.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 102,
+    "cik": "0001851491",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/amss",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"AMSS\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-05-18\", \"offer_price\": \"20.00\", \"base_shares\": 14293298}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 103,
+    "cik": "0002073515",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/arcl",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"ARCL\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-04-30\", \"offer_price\": \"10.00\", \"base_shares\": 10500000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 104,
+    "cik": "0002082526",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/aesp",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"AESP\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-06-03\", \"offer_price\": \"10.00\", \"base_shares\": 12500000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 105,
+    "cik": "0002104204",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/almr",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"ALMR\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-04-17\", \"offer_price\": \"17.00\", \"base_shares\": 11250000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 106,
+    "cik": "0002125551",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/alpx",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"ALPX\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-06-25\", \"offer_price\": \"20.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 107,
+    "cik": "0002112457",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/aman",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"AMAN\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-05-20\", \"offer_price\": \"10.00\", \"base_shares\": 311250}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 108,
+    "cik": "0002101393",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/apmc",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"APMC\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-06-03\", \"offer_price\": \"10.00\", \"base_shares\": 12500000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 109,
+    "cik": "0002093524",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/apur",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"APUR\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-05-21\", \"offer_price\": \"10.00\", \"base_shares\": 9000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 110,
+    "cik": "0002102123",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/aacp",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"AACP\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-04-08\", \"offer_price\": \"10.00\", \"base_shares\": 15000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 111,
+    "cik": "0002118195",
+    "source_name": "Renaissance Capital / Press Release",
+    "source_url": "https://www.nyse.com/listings/ipo-center/aadx",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"AADX\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-06-02\", \"offer_price\": \"20.00\", \"base_shares\": 32500000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 112,
+    "cik": "0002128115",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/aac",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"AAC\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-06-30\", \"offer_price\": \"10.00\", \"base_shares\": 34500000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 113,
+    "cik": "0002093536",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/arxs",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"ARXS\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-04-16\", \"offer_price\": \"28.00\", \"base_shares\": 40500000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 114,
+    "cik": "0001540171",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/avln",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"AVLN\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-04-30\", \"offer_price\": \"18.00\", \"base_shares\": 16666667}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 115,
+    "cik": "0002081515",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/guac",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"GUAC\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-05-18\", \"offer_price\": \"10.00\", \"base_shares\": 27400000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 116,
+    "cik": "0002100161",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/bxdc",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"BXDC\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-05-13\", \"offer_price\": \"20.00\", \"base_shares\": 87500000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 117,
+    "cik": "0002070542",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/aib",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"AIB\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-06-08\", \"offer_price\": \"1.65\", \"base_shares\": 33333334}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 118,
+    "cik": "0002095443",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/brez",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"BREZ\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-05-14\", \"offer_price\": \"10.00\", \"base_shares\": 12500000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 119,
+    "cik": "0002098707",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/brkh",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"BRKH\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-05-26\", \"offer_price\": \"10.00\", \"base_shares\": 1200000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 120,
+    "cik": "0002044817",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/mtne",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"MTNE\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-05-04\", \"offer_price\": \"10.00\", \"base_shares\": 20000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 121,
+    "cik": "0002087965",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/caes",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"CAES\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-06-17\", \"offer_price\": \"10.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 122,
+    "cik": "0002079999",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/cdnl",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"CDNL\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-06-25\", \"offer_price\": \"73.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 123,
+    "cik": "0002126043",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/cgcf",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"CGCF\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-06-25\", \"offer_price\": \"10.00\", \"base_shares\": 25000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 124,
+    "cik": "0002021728",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/cbrs",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"CBRS\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-05-14\", \"offer_price\": \"185.00\", \"base_shares\": 30000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 125,
+    "cik": "0002114227",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/cxii",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"CXII\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-04-28\", \"offer_price\": \"10.00\", \"base_shares\": 36000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 126,
+    "cik": "0002115404",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/caii",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"CAII\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-04-29\", \"offer_price\": \"10.00\", \"base_shares\": 22000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 127,
+    "cik": "0002066836",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/cnxu",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"CNXU\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-05-11\", \"offer_price\": \"20.00\", \"base_shares\": 9481123}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 128,
+    "cik": "0002111038",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/dgac",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"DGAC\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-05-28\", \"offer_price\": \"10.00\", \"base_shares\": 15000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 129,
+    "cik": "0002107018",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/dpc",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"DPC\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-06-24\", \"offer_price\": \"33.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 130,
+    "cik": "0001966041",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/dsc",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"DSC\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-06-26\", \"offer_price\": \"17.0\", \"base_shares\": 3000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 131,
+    "cik": "0002110029",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/eroc",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"EROC\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-06-09\", \"offer_price\": \"21.50\", \"base_shares\": 27906977}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 132,
+    "cik": "0002104882",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/erok",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"EROK\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-05-13\", \"offer_price\": \"18.50\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 133,
+    "cik": "0002101698",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/elmt",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"ELMT\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-04-23\", \"offer_price\": \"14.00\", \"base_shares\": 8571428}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 134,
+    "cik": "0002085932",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/etss",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"ETSS\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-05-15\", \"offer_price\": \"10.00\", \"base_shares\": 15000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 135,
+    "cik": "0001960355",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/exyn",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"EXYN\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-05-15\", \"offer_price\": \"7.75\", \"base_shares\": 2500000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 136,
+    "cik": "0001853868",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/frvo",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"FRVO\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-05-14\", \"offer_price\": \"27.00\", \"base_shares\": 70000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 137,
+    "cik": "0001531193",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/fcbm",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"FCBM\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-06-17\", \"offer_price\": \"12.50\", \"base_shares\": 5500000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 138,
+    "cik": "0001925062",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/frbt",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"FRBT\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-06-10\", \"offer_price\": \"18.00\", \"base_shares\": 7900000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 139,
+    "cik": "0002097986",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/ftha",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"FTHA\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-05-01\", \"offer_price\": \"10.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 140,
+    "cik": "0002080126",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/fps",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"FPS\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-07-02\", \"offer_price\": \"49.000\", \"base_shares\": 43650000}",
+    "all_fields_match": false
+  },
+  {
+    "check_id": 141,
+    "cik": "0002121703",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/fxac",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"FXAC\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-05-22\", \"offer_price\": \"20.00\", \"base_shares\": 7500000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 142,
+    "cik": "0002131853",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/ftra",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"FTRA\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-06-05\", \"offer_price\": \"10.00\", \"base_shares\": 20000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 143,
+    "cik": "0002116105",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/fwac",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"FWAC\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-06-26\", \"offer_price\": \"20.00\", \"base_shares\": 7500000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 144,
+    "cik": "0000794685",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/gab",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"GAB\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-04-01\", \"offer_price\": \"5.60\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 145,
+    "cik": "0001898718",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/gmrs",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"GMRS\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-05-14\", \"offer_price\": \"15.00\", \"base_shares\": 31914893}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 146,
+    "cik": "0000886982",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/gs",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"GS\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-05-29\", \"offer_price\": \"20.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 147,
+    "cik": "0002111762",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/gsrv",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"GSRV\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-05-14\", \"offer_price\": \"20.00\", \"base_shares\": 20000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 148,
+    "cik": "0002086438",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/ghxi",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"GHXI\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-06-23\", \"offer_price\": \"10.00\", \"base_shares\": 31200000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 149,
+    "cik": "0002093507",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/glnd",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"GLND\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-04-29\", \"offer_price\": \"4.00\", \"base_shares\": 16250000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 150,
+    "cik": "0002021880",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/hmh",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"HMH\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-04-01\", \"offer_price\": \"20.00\", \"base_shares\": 10520000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 151,
+    "cik": "0001750704",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/hawk",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"HAWK\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-05-06\", \"offer_price\": \"26.00\", \"base_shares\": 16000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 152,
+    "cik": "0002114044",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/coag",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"COAG\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-05-01\", \"offer_price\": \"18.00\", \"base_shares\": 16750000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 153,
+    "cik": "0002109150",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/inio",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"INIO\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-06-04\", \"offer_price\": \"27.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 154,
+    "cik": "0002105274",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/ipvv",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"IPVV\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-06-04\", \"offer_price\": \"10.00\", \"base_shares\": 17500000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 155,
+    "cik": "0002122505",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/iacq",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"IACQ\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-04-28\", \"offer_price\": \"10.00\", \"base_shares\": 22000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 156,
+    "cik": "0002090441",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/idac",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"IDAC\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-05-15\", \"offer_price\": \"10.00\", \"base_shares\": 15000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 157,
+    "cik": "0002128739",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/atlq",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"ATLQ\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-06-10\", \"offer_price\": \"10.00\", \"base_shares\": 15000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 158,
+    "cik": "0002112446",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/jatt",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"JATT\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-04-17\", \"offer_price\": \"10.00\", \"base_shares\": 309000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 159,
+    "cik": "0002100805",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/jan",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"JAN\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-11-05\", \"offer_price\": \"28.50\", \"base_shares\": 26250000}",
+    "all_fields_match": false
+  },
+  {
+    "check_id": 160,
+    "cik": "0002095297",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/kpet",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"KPET\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-04-01\", \"offer_price\": \"10.00\", \"base_shares\": 20000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 161,
+    "cik": "0002096997",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/klra",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"KLRA\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-04-17\", \"offer_price\": \"16.00\", \"base_shares\": 39062500}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 162,
+    "cik": "0002123613",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/kard",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"KARD\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-06-17\", \"offer_price\": \"16.00\", \"base_shares\": 25000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 163,
+    "cik": "0002102771",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/keyy",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"KEYY\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-06-03\", \"offer_price\": \"10.00\", \"base_shares\": 25000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 164,
+    "cik": "0001919776",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/detx",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"DETX\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-04-21\", \"offer_price\": \"4.50\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 165,
+    "cik": "0002079272",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/labt",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"LABT\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-05-14\", \"offer_price\": \"20.00\", \"base_shares\": 9647726}",
+    "all_fields_match": false
+  },
+  {
+    "check_id": 166,
+    "cik": "0002079272",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/labt",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"LABT\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-05-14\", \"offer_price\": \"20.00\", \"base_shares\": 9647726}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 167,
+    "cik": "0001850351",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/lfto",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"LFTO\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-06-04\", \"offer_price\": \"23.00\", \"base_shares\": 19000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 168,
+    "cik": "0001925283",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/lcln",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"LCLN\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-05-21\", \"offer_price\": \"20.00\", \"base_shares\": 21049988}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 169,
+    "cik": "0002104177",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/ltgr",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"LTGR\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-06-04\", \"offer_price\": \"10.00\", \"base_shares\": 15000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 170,
+    "cik": "0002098430",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/mair",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"MAIR\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-04-17\", \"offer_price\": \"27.00\", \"base_shares\": 82692308}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 171,
+    "cik": "0002071668",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/micc",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"MICC\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-04-13\", \"offer_price\": \"20.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 172,
+    "cik": "0002080087",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/myx",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"MYX\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-04-14\", \"offer_price\": \"10.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 173,
+    "cik": "0002046386",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/mdln",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"MDLN\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-11-19\", \"offer_price\": \"35.50\", \"base_shares\": 60000000}",
+    "all_fields_match": false
+  },
+  {
+    "check_id": 174,
+    "cik": "0002087398",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/tmcr",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"TMCR\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-04-07\", \"offer_price\": \"20.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 175,
+    "cik": "0002083526",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/mwc",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"MWC\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-05-13\", \"offer_price\": \"8.00\", \"base_shares\": 2850000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 176,
+    "cik": "0001489993",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/mobi",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"MOBI\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-05-08\", \"offer_price\": \"15.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 177,
+    "cik": "0002109876",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/mcah",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"MCAH\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-04-30\", \"offer_price\": \"10.00\", \"base_shares\": 6000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 178,
+    "cik": "0002099767",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/nhiv",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"NHIV\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-04-16\", \"offer_price\": \"10.00\", \"base_shares\": 17500000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 179,
+    "cik": "0001926314",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/ocac",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"OCAC\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-06-10\", \"offer_price\": \"20.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 180,
+    "cik": "0002090787",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/ohac",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"OHAC\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-05-22\", \"offer_price\": \"20.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 181,
+    "cik": "0001882782",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/odtx",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"ODTX\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-05-08\", \"offer_price\": \"18.00\", \"base_shares\": 15500000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 182,
+    "cik": "0002027329",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/opth",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"OPTH\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-05-19\", \"offer_price\": \"6.25\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 183,
+    "cik": "0002026053",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/ps",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"PS\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-04-30\", \"offer_price\": \"50.00\", \"base_shares\": 8103392}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 184,
+    "cik": "0001657677",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/pbls",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"PBLS\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-06-10\", \"offer_price\": \"20.00\", \"base_shares\": 33500000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 185,
+    "cik": "0002099095",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/ptac",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"PTAC\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-05-18\", \"offer_price\": \"10.00\", \"base_shares\": 16000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 186,
+    "cik": "0002088626",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/pece",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"PECE\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-05-22\", \"offer_price\": \"10.00\", \"base_shares\": 6000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 187,
+    "cik": "0002002660",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/psus",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"PSUS\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-04-30\", \"offer_price\": \"50.00\", \"base_shares\": 40516960}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 188,
+    "cik": "0002065661",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/plun",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"PLUN\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-04-28\", \"offer_price\": \"20.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 189,
+    "cik": "0002110105",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/qnt",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"QNT\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-06-03\", \"offer_price\": \"60.00\", \"base_shares\": 28000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 190,
+    "cik": "0002102155",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/qlep",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"QLEP\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-05-04\", \"offer_price\": \"10.00\", \"base_shares\": 20000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 191,
+    "cik": "0002102155",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/qlep",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"QLEP\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-05-04\", \"offer_price\": \"10.00\", \"base_shares\": 20000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 192,
+    "cik": "0002085177",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/qred",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"QRED\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-04-16\", \"offer_price\": \"20.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 193,
+    "cik": "0002104879",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/shot",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"SHOT\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-06-11\", \"offer_price\": \"10.00\", \"base_shares\": 20000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 194,
+    "cik": "0002123969",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/rrev",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"RREV\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-05-01\", \"offer_price\": \"10.00\", \"base_shares\": 25000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 195,
+    "cik": "0002095743",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/rea",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"REA\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-05-05\", \"offer_price\": \"19.00\", \"base_shares\": 3333331}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 196,
+    "cik": "0002118032",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/racc",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"RACC\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-05-20\", \"offer_price\": \"10.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 197,
+    "cik": "0001943421",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/rubi",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"RUBI\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-05-21\", \"offer_price\": \"0.95\", \"base_shares\": 5263160}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 198,
+    "cik": "0002067674",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/sbmt",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"SBMT\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-05-01\", \"offer_price\": \"11.50\", \"base_shares\": 10000000}",
+    "all_fields_match": false
+  },
+  {
+    "check_id": 199,
+    "cik": "0002067674",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/sbmt",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"SBMT\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-05-01\", \"offer_price\": \"11.50\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 200,
+    "cik": "0002065636",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/mwh",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"MWH\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-05-28\", \"offer_price\": \"36.00\", \"base_shares\": 15000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 201,
+    "cik": "0001181412",
+    "source_name": "Nasdaq IPO Calendar",
+    "source_url": "https://www.nasdaq.com/market-activity/ipos/overview?dealId=spacex-2026",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"SPCX\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-06-11\", \"offer_price\": \"135.00\", \"base_shares\": 555555555}",
+    "all_fields_match": false
+  },
+  {
+    "check_id": 202,
+    "cik": "0001181412",
+    "source_name": "Renaissance Capital / Press Release",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-06-12/spacex-ipo-pricing",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"SPCX\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-06-12\", \"offer_price\": \"135.00\", \"base_shares\": 638888888}",
+    "all_fields_match": false
+  },
+  {
+    "check_id": 203,
+    "cik": "0001934114",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/suja",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"SUJA\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-05-06\", \"offer_price\": \"21.00\", \"base_shares\": 8888889}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 204,
+    "cik": "0002042347",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/sptx",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"SPTX\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-04-30\", \"offer_price\": \"18.00\", \"base_shares\": 14160000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 205,
+    "cik": "0002083452",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/sagu",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"SAGU\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-05-07\", \"offer_price\": \"20.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 206,
+    "cik": "0002096861",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/sind",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"SIND\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-06-29\", \"offer_price\": \"12.00\", \"base_shares\": 17750000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 207,
+    "cik": "0002123475",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/isnr",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"ISNR\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-06-09\", \"offer_price\": \"10.00\", \"base_shares\": 20000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 208,
+    "cik": "0002094076",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/otai",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"OTAI\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-05-08\", \"offer_price\": \"10.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 209,
+    "cik": "0002091017",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/ssmr",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"SSMR\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-06-05\", \"offer_price\": \"13.50\", \"base_shares\": 20000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 210,
+    "cik": "0002096755",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/tviv",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"TVIV\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-06-18\", \"offer_price\": \"10.00\", \"base_shares\": 15000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 211,
+    "cik": "0002094919",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/bid",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"BID\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-06-01\", \"offer_price\": \"10.00\", \"base_shares\": 14000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 212,
+    "cik": "0001973062",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/vida",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"VIDA\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-05-14\", \"offer_price\": \"4.00\", \"base_shares\": 3750000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 213,
+    "cik": "0001973062",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/vida",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"VIDA\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-05-14\", \"offer_price\": \"4.00\", \"base_shares\": 3750000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 214,
+    "cik": "0001827635",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/mane",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"MANE\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-04-29\", \"offer_price\": \"100.00\", \"base_shares\": 3843790}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 215,
+    "cik": "0002081690",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/veca",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"VECA\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-05-07\", \"offer_price\": \"10.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 216,
+    "cik": "0001921603",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/whk",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"WHK\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-06-08\", \"offer_price\": \"26.00\", \"base_shares\": 7700000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 217,
+    "cik": "0002101470",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/wlco",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"WLCO\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-06-22\", \"offer_price\": \"10.00\", \"base_shares\": 20000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 218,
+    "cik": "0002088896",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/xe",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"XE\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-04-23\", \"offer_price\": \"23.00\", \"base_shares\": 44254659}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 219,
+    "cik": "0001859836",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/yswy",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"YSWY\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-04-21\", \"offer_price\": \"20.00\", \"base_shares\": 14000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 220,
+    "cik": "0002130386",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/yicc",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"YICC\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-06-16\", \"offer_price\": \"10.00\", \"base_shares\": 20000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 221,
+    "cik": "0001802369",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/adrx",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"ADRX\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-09-28\", \"offer_price\": \"17.00\", \"base_shares\": 26250000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 222,
+    "cik": "0002110119",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/amac",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"AMAC\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-07-17\", \"offer_price\": \"10.00\", \"base_shares\": 25000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 223,
+    "cik": "0002094712",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/fjdi",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"FJDI\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-08-05\", \"offer_price\": \"10.00\", \"base_shares\": 10500000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 224,
+    "cik": "0002084227",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/adbt",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"ADBT\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-08-12\", \"offer_price\": \"20.00\", \"base_shares\": 94046357}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 225,
+    "cik": "0002060016",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/agcc",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"AGCC\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-06-17\", \"offer_price\": \"10.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 226,
+    "cik": "0002065708",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/andg",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"ANDG\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-08-20\", \"offer_price\": \"44.00\", \"base_shares\": 4284457}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 227,
+    "cik": "0001745648",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/apmd",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"APMD\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-07-31\", \"offer_price\": \"16.00\", \"base_shares\": 12000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 228,
+    "cik": "0002058707",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/atto",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"ATTO\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-08-05\", \"offer_price\": \"17.00\", \"base_shares\": 17000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 229,
+    "cik": "0002080216",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/theo",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"THEO\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-08-04\", \"offer_price\": \"10.00\", \"base_shares\": 12500000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 230,
+    "cik": "0002004711",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/bsp",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"BSP\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-07-01\", \"offer_price\": \"29.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 231,
+    "cik": "0002128045",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/bccq",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"BCCQ\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-07-07\", \"offer_price\": \"10.00\", \"base_shares\": 30000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 232,
+    "cik": "0001839970",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/blsm",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"BLSM\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-08-07\", \"offer_price\": \"16.00\", \"base_shares\": 9375000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 233,
+    "cik": "0002131524",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/brve",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"BRVE\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-08-06\", \"offer_price\": \"18.00\", \"base_shares\": 21250000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 234,
+    "cik": "0002104391",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/catl",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"CATL\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-07-28\", \"offer_price\": \"10.00\", \"base_shares\": 20000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 235,
+    "cik": "0002114229",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/xiii",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"XIII\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-07-31\", \"offer_price\": \"10.00\", \"base_shares\": 36000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 236,
+    "cik": "0002123471",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/ccct",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"CCCT\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-07-09\", \"offer_price\": \"20.00\", \"base_shares\": 20000000}",
+    "all_fields_match": false
+  },
+  {
+    "check_id": 237,
+    "cik": "0002123471",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/ccct",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"CCCT\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-07-09\", \"offer_price\": \"20.00\", \"base_shares\": 20000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 238,
+    "cik": "0002105398",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/csqr",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"CSQR\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-07-15\", \"offer_price\": \"21.00\", \"base_shares\": 50000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 239,
+    "cik": "0002100704",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/ewav",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"EWAV\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-08-03\", \"offer_price\": \"10.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 240,
+    "cik": "0002088082",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/etra",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"ETRA\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-09-17\", \"offer_price\": \"15.00\", \"base_shares\": 23333334}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 241,
+    "cik": "0001892704",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/fbdt",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"FBDT\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-08-20\", \"offer_price\": \"20.00\", \"base_shares\": 10000000}",
+    "all_fields_match": false
+  },
+  {
+    "check_id": 242,
+    "cik": "0001892704",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/fbdt",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"FBDT\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-08-20\", \"offer_price\": \"20.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 243,
+    "cik": "0002080126",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/fps",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"FPS\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-07-02\", \"offer_price\": \"49.000\", \"base_shares\": 43650000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 244,
+    "cik": "0002129659",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/fdmm",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"FDMM\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-07-08\", \"offer_price\": \"10.00\", \"base_shares\": 27500000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 245,
+    "cik": "0002111846",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/gygy",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"GYGY\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-07-29\", \"offer_price\": \"20.00\", \"base_shares\": 16072730}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 246,
+    "cik": "0002111838",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/hyac",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"HYAC\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-09-18\", \"offer_price\": \"10.00\", \"base_shares\": 25000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 247,
+    "cik": "0002098395",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/imc",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"IMC\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-07-29\", \"offer_price\": \"5.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 248,
+    "cik": "0002110117",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/itg",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"ITG\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-06-30\", \"offer_price\": \"16.00\", \"base_shares\": 19512196}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 249,
+    "cik": "0002146310",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/iphx",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"IPHX\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-08-31\", \"offer_price\": \"10.00\", \"base_shares\": 25000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 250,
+    "cik": "0002007691",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/iond",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"IOND\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-07-28\", \"offer_price\": \"20.00\", \"base_shares\": 10800164}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 251,
+    "cik": "0002145659",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/jttt",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"JTTT\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-08-26\", \"offer_price\": \"10.00\", \"base_shares\": 234000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 252,
+    "cik": "0002100805",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/jan",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"JAN\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-11-05\", \"offer_price\": \"28.50\", \"base_shares\": 26250000}",
+    "all_fields_match": false
+  },
+  {
+    "check_id": 253,
+    "cik": "0002127043",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/jmke",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"JMKE\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-07-31\", \"offer_price\": \"23.00\", \"base_shares\": 43478261}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 254,
+    "cik": "0002129056",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/jone",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"JONE\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-07-15\", \"offer_price\": \"10.00\", \"base_shares\": 20000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 255,
+    "cik": "0002129056",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/jone",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"JONE\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-07-15\", \"offer_price\": \"10.00\", \"base_shares\": 20000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 256,
+    "cik": "0002134856",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/xter",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"XTER\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-08-18\", \"offer_price\": \"10.00\", \"base_shares\": 20000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 257,
+    "cik": "0002056611",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/ltgo",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"LTGO\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-08-06\", \"offer_price\": \"18.00\", \"base_shares\": 19200000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 258,
+    "cik": "0002109823",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/ledr",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"LEDR\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-09-21\", \"offer_price\": \"10.00\", \"base_shares\": 15000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 259,
+    "cik": "0002115191",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/lovi",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"LOVI\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-09-23\", \"offer_price\": \"10.00\", \"base_shares\": 20000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 260,
+    "cik": "0002006960",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/foil",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"FOIL\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-08-14\", \"offer_price\": \"22.00\", \"base_shares\": 4285714}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 261,
+    "cik": "0002132582",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/lynx",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"LYNX\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-08-19\", \"offer_price\": \"20.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 262,
+    "cik": "0002133136",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/mtak",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"MTAK\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-07-27\", \"offer_price\": \"10.00\", \"base_shares\": 20000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 263,
+    "cik": "0002106436",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/mrco",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"MRCO\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-07-10\", \"offer_price\": \"10.00\", \"base_shares\": 15000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 264,
+    "cik": "0002136530",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/miac",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"MIAC\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-07-02\", \"offer_price\": \"10.00\", \"base_shares\": 17500000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 265,
+    "cik": "0001699963",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/lime",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"LIME\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-07-02\", \"offer_price\": \"25.00\", \"base_shares\": 6956522}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 266,
+    "cik": "0002133719",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/nsai",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"NSAI\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-08-19\", \"offer_price\": \"20.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 267,
+    "cik": "0002137679",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/oclt",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"OCLT\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-08-07\", \"offer_price\": \"20.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 268,
+    "cik": "0002124472",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/oig",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"OIG\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-09-21\", \"offer_price\": \"12.00\", \"base_shares\": 20000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 269,
+    "cik": "0002113481",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/ospr",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"OSPR\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-07-02\", \"offer_price\": \"10.00\", \"base_shares\": 26100000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 270,
+    "cik": "0002122392",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/plci",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"PLCI\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-07-24\", \"offer_price\": \"20.00\", \"base_shares\": 7500000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 271,
+    "cik": "0002123955",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/pnaq",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"PNAQ\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-08-07\", \"offer_price\": \"10.00\", \"base_shares\": 20000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 272,
+    "cik": "0002084026",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/qmls",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"QMLS\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-07-15\", \"offer_price\": \"20.00\", \"base_shares\": 39472531}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 273,
+    "cik": "0002075335",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/rzai",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"RZAI\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-09-28\", \"offer_price\": \"20.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 274,
+    "cik": "0002147219",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/rnaq",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"RNAQ\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-08-27\", \"offer_price\": \"10.00\", \"base_shares\": 7500000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 275,
+    "cik": "0001787117",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/ref",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"REF\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-07-30\", \"offer_price\": \"15.00\", \"base_shares\": 14062500}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 276,
+    "cik": "0002137777",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/racd",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"RACD\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-07-13\", \"offer_price\": \"10.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 277,
+    "cik": "0002120882",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/skhy",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"SKHY\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-07-10\", \"offer_price\": \"149.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 278,
+    "cik": "0001853921",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/sctx",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"SCTX\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-07-27\", \"offer_price\": \"15.00\", \"base_shares\": 8580000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 279,
+    "cik": "0002116230",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/nco",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"NCO\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-07-21\", \"offer_price\": \"20.00\", \"base_shares\": 1500000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 280,
+    "cik": "0002133239",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/scat",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"SCAT\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-08-26\", \"offer_price\": \"20.00\", \"base_shares\": 7500000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 281,
+    "cik": "0002086716",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/stdn",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"STDN\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-07-16\", \"offer_price\": \"15.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 282,
+    "cik": "0002101240",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/snsc",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"SNSC\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-08-13\", \"offer_price\": \"5.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 283,
+    "cik": "0002137965",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/tcgx",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"TCGX\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-08-06\", \"offer_price\": \"10.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 284,
+    "cik": "0002128462",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/tlac",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"TLAC\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-09-01\", \"offer_price\": \"10.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 285,
+    "cik": "0002140030",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/tbcv",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"TBCV\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-08-13\", \"offer_price\": \"20.00\", \"base_shares\": 26100000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 286,
+    "cik": "0002104296",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/tp",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"TP\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-08-07\", \"offer_price\": \"8.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 287,
+    "cik": "0002139246",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/vii",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"VII\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-07-06\", \"offer_price\": \"10.00\", \"base_shares\": 20000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 288,
+    "cik": "0001903784",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/vogx",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"VOGX\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-08-11\", \"offer_price\": \"13.00\", \"base_shares\": 6250000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 289,
+    "cik": "0002048271",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/wshp",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"WSHP\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-10-13\", \"offer_price\": \"20.00\", \"base_shares\": 10000000}",
+    "all_fields_match": false
+  },
+  {
+    "check_id": 290,
+    "cik": "0002018222",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/jem",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"JEM\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-11-13\", \"offer_price\": \"2.60\", \"base_shares\": 2000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 291,
+    "cik": "0002141406",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/accv",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"ACCV\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-10-01\", \"offer_price\": \"18.00\", \"base_shares\": 30000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 292,
+    "cik": "0002141616",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/amro",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"AMRO\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-10-15\", \"offer_price\": \"4.25\", \"base_shares\": 4705883}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 293,
+    "cik": "0002130357",
+    "source_name": "Nasdaq IPO Calendar",
+    "source_url": "https://www.nasdaq.com/market-activity/ipos/overview?dealId=anthropic-2026",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"ANT\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-11-18\", \"offer_price\": \"83.00\", \"base_shares\": 980000000}",
+    "all_fields_match": false
+  },
+  {
+    "check_id": 294,
+    "cik": "0002130357",
+    "source_name": "Renaissance Capital / Press Release",
+    "source_url": "https://www.businesswire.com/news/home/20261118/anthropic-pricing",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"ANT\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-11-19\", \"offer_price\": \"83.00\", \"base_shares\": 980000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 295,
+    "cik": "0002124080",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/aspe",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"ASPE\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-10-30\", \"offer_price\": \"15.00\", \"base_shares\": 9375000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 296,
+    "cik": "0002044950",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/bbtx",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"BBTX\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-10-30\", \"offer_price\": \"16.00\", \"base_shares\": 10555555}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 297,
+    "cik": "0002143850",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/cty",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"CTY\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-10-15\", \"offer_price\": \"18.00\", \"base_shares\": 11111111}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 298,
+    "cik": "0002058584",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/dki",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"DKI\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-10-09\", \"offer_price\": \"1.44\", \"base_shares\": 898965}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 299,
+    "cik": "0002058584",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/dki",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"DKI\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-10-09\", \"offer_price\": \"1.44\", \"base_shares\": 898965}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 300,
+    "cik": "0002013320",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/elog",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"ELOG\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-11-19\", \"offer_price\": \"0.36\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 301,
+    "cik": "0002153598",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/flsc",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"FLSC\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-10-14\", \"offer_price\": \"10.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 302,
+    "cik": "0001070965",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/gbc",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"GBC\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-10-27\", \"offer_price\": \"20.00\", \"base_shares\": 7074016}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 303,
+    "cik": "0001997038",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/iam",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"IAM\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-10-15\", \"offer_price\": \"16.00\", \"base_shares\": 9375000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 304,
+    "cik": "0002100805",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nyse.com/market-activity/stocks/jan",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"JAN\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-11-05\", \"offer_price\": \"28.50\", \"base_shares\": 26250000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 305,
+    "cik": "0001806540",
+    "source_name": "Nasdaq IPO Calendar",
+    "source_url": "https://www.nasdaq.com/market-activity/ipos/overview?dealId=lycia-2026",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"LYCA\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-10-22\", \"offer_price\": \"18.00\", \"base_shares\": 17640000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 306,
+    "cik": "0001806540",
+    "source_name": "Renaissance Capital / Press Release",
+    "source_url": "https://www.globenewswire.com/news-release/2026/10/22/lycia-pricing",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"LYCA\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-10-23\", \"offer_price\": \"18.00\", \"base_shares\": 20286000}",
+    "all_fields_match": false
+  },
+  {
+    "check_id": 307,
+    "cik": "0002046386",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/mdln",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"MDLN\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-11-19\", \"offer_price\": \"35.50\", \"base_shares\": 60000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 308,
+    "cik": "0001995075",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/mgn",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"MGN\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-10-28\", \"offer_price\": \"0.50\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 309,
+    "cik": "0002076561",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/paxg",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"PAXG\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-10-06\", \"offer_price\": \"10.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 310,
+    "cik": "0002002988",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/rtsn",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"RTSN\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-10-09\", \"offer_price\": \"12.00\", \"base_shares\": 3750000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 311,
+    "cik": "0002149916",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/tcxb",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"TCXB\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-10-16\", \"offer_price\": \"10.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 312,
+    "cik": "0002139097",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/trxb",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"TRXB\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-10-09\", \"offer_price\": \"14.00\", \"base_shares\": 8333334}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 313,
+    "cik": "0002145089",
+    "source_name": "Nasdaq IPO Calendar",
+    "source_url": "https://www.nasdaq.com/market-activity/ipos/overview?dealId=windward-bio",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"WWB\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-11-12\", \"offer_price\": \"17.00\", \"base_shares\": 10294117}",
+    "all_fields_match": false
+  },
+  {
+    "check_id": 314,
+    "cik": "0002048271",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/wshp",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"WSHP\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-10-13\", \"offer_price\": \"20.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 315,
+    "cik": "0002048271",
+    "source_name": "Exchange Master Directory",
+    "source_url": "https://www.nasdaq.com/market-activity/stocks/wshp",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"WSHP\", \"exchange\": \"NASDAQ\", \"pricing_date\": \"2026-10-13\", \"offer_price\": \"20.00\", \"base_shares\": 10000000}",
+    "all_fields_match": true
+  },
+  {
+    "check_id": 316,
+    "cik": "0001907709",
+    "source_name": "Renaissance Capital / Press Release",
+    "source_url": "https://www.businesswire.com/news/home/20261113/vvardis-ipo",
+    "retrieved_at": "2026-11-20T12:00:00Z",
+    "values_json": "{\"ticker\": \"VVVV\", \"exchange\": \"NYSE\", \"pricing_date\": \"2026-11-13\", \"offer_price\": \"18.00\", \"base_shares\": 9722223}",
+    "all_fields_match": false
+  }
+]

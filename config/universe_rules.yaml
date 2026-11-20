@@ -1,0 +1,35 @@
+version: "1.0"
+as_of_date: "2026-11-20"
+window_start: "2026-01-01"
+window_end: "2026-11-20"
+
+exchanges:
+  included:
+    - "NASDAQ"
+    - "NASDAQ GLOBAL SELECT"
+    - "NASDAQ GLOBAL MARKET"
+    - "NASDAQ CAPITAL MARKET"
+    - "NYSE"
+    - "NEW YORK STOCK EXCHANGE"
+  excluded:
+    - "NYSE AMERICAN"
+    - "NYSE ARCA"
+    - "BATS"
+    - "OTC"
+    - "OTCQX"
+    - "OTCQB"
+    - "PINK"
+
+offerings:
+  direct_listings: false
+  spac_mergers: false
+  spac_ipos: true
+  follow_on: false
+  funds_and_etfs: false
+  foreign_private_issuer_ads: true
+  units_count_mode: "units_offered"
+  currency: "USD"
+
+rate_limits:
+  sec_requests_per_second: 5
+  sec_user_agent: "IPOLedgerAgent research@ipoledger.internal"

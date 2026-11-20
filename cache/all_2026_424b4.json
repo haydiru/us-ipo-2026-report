@@ -1,0 +1,3802 @@
+[
+  {
+    "form_type": "424B4",
+    "company_name": "5E Advanced Materials, Inc.",
+    "cik": "1888654",
+    "date_filed": "2026-02-02",
+    "file_name": "edgar/data/1888654/0001193125-26-032794.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "AIM ImmunoTech Inc.",
+    "cik": "946644",
+    "date_filed": "2026-02-17",
+    "file_name": "edgar/data/946644/0001493152-26-006944.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "APEX Tech Acquisition Inc.",
+    "cik": "2085485",
+    "date_filed": "2026-02-27",
+    "file_name": "edgar/data/2085485/0001477932-26-001078.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "ARKO Petroleum Corp.",
+    "cik": "2080921",
+    "date_filed": "2026-02-13",
+    "file_name": "edgar/data/2080921/0001193125-26-049767.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "ATLAS CRITICAL MINERALS Corp",
+    "cik": "1684688",
+    "date_filed": "2026-01-12",
+    "file_name": "edgar/data/1684688/0001493152-26-001253.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Abony Acquisition Corp. I",
+    "cik": "2099906",
+    "date_filed": "2026-02-19",
+    "file_name": "edgar/data/2099906/0001213900-26-018112.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Agomab Therapeutics NV",
+    "cik": "2020932",
+    "date_filed": "2026-02-06",
+    "file_name": "edgar/data/2020932/0001104659-26-011523.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Aktis Oncology, Inc.",
+    "cik": "2035832",
+    "date_filed": "2026-01-09",
+    "file_name": "edgar/data/2035832/0001193125-26-009078.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Aldabra 4 Liquidity Opportunity Vehicle, Inc.",
+    "cik": "2083989",
+    "date_filed": "2026-01-22",
+    "file_name": "edgar/data/2083989/0001104659-26-005826.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Alphega Innovations Corp",
+    "cik": "2038564",
+    "date_filed": "2026-02-04",
+    "file_name": "edgar/data/2038564/0002038564-26-000002.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Ambiq Micro, Inc.",
+    "cik": "1500412",
+    "date_filed": "2026-01-26",
+    "file_name": "edgar/data/1500412/0001193125-26-021460.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Aptera Motors Corp",
+    "cik": "1786471",
+    "date_filed": "2026-01-26",
+    "file_name": "edgar/data/1786471/0001493152-26-003497.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Aptevo Therapeutics Inc.",
+    "cik": "1671584",
+    "date_filed": "2026-01-30",
+    "file_name": "edgar/data/1671584/0001193125-26-032011.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Archimedes Tech SPAC Partners III Co.",
+    "cik": "2083910",
+    "date_filed": "2026-01-26",
+    "file_name": "edgar/data/2083910/0001437749-26-001985.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Archimedes Tech SPAC Partners III Co.",
+    "cik": "2083910",
+    "date_filed": "2026-01-26",
+    "file_name": "edgar/data/2083910/0001437749-26-001986.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Armada Acquisition Corp. III",
+    "cik": "2092897",
+    "date_filed": "2026-02-18",
+    "file_name": "edgar/data/2092897/0001193125-26-056363.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Art Technology Acquisition Corp.",
+    "cik": "2086545",
+    "date_filed": "2026-01-07",
+    "file_name": "edgar/data/2086545/0001213900-26-001875.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Averin Capital Acquisition Corp.",
+    "cik": "2096900",
+    "date_filed": "2026-02-18",
+    "file_name": "edgar/data/2096900/0001213900-26-017987.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "BANK OF AMERICA CORP /DE/",
+    "cik": "70858",
+    "date_filed": "2026-02-23",
+    "file_name": "edgar/data/70858/0001213900-26-019140.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "BHAV Acquisition Corp",
+    "cik": "2097288",
+    "date_filed": "2026-03-20",
+    "file_name": "edgar/data/2097288/0001213900-26-032071.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "BITGO HOLDINGS, INC.",
+    "cik": "1740604",
+    "date_filed": "2026-01-23",
+    "file_name": "edgar/data/1740604/0001628280-26-003180.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "BUDA JUICE, INC.",
+    "cik": "2079720",
+    "date_filed": "2026-01-08",
+    "file_name": "edgar/data/2079720/0001493152-26-001005.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Bimergen Energy Corp",
+    "cik": "1066764",
+    "date_filed": "2026-02-20",
+    "file_name": "edgar/data/1066764/0001493152-26-007618.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "BioRestorative Therapies, Inc.",
+    "cik": "1505497",
+    "date_filed": "2026-02-13",
+    "file_name": "edgar/data/1505497/0001493152-26-006580.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Birchtech Corp.",
+    "cik": "728385",
+    "date_filed": "2026-02-27",
+    "file_name": "edgar/data/728385/0001104659-26-021168.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Bleichroeder Acquisition Corp. II",
+    "cik": "2088295",
+    "date_filed": "2026-01-08",
+    "file_name": "edgar/data/2088295/0001213900-26-002472.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Blue Hat Interactive Entertainment Technology",
+    "cik": "1759136",
+    "date_filed": "2026-02-23",
+    "file_name": "edgar/data/1759136/0001731122-26-000275.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Blue Water Acquisition Corp. IV",
+    "cik": "2082847",
+    "date_filed": "2026-03-20",
+    "file_name": "edgar/data/2082847/0001493152-26-011903.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Bob's Discount Furniture, Inc.",
+    "cik": "2085187",
+    "date_filed": "2026-02-05",
+    "file_name": "edgar/data/2085187/0001628280-26-005868.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Braiin Ltd",
+    "cik": "2076975",
+    "date_filed": "2026-02-02",
+    "file_name": "edgar/data/2076975/0001493152-26-004786.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "BriaCell Therapeutics Corp.",
+    "cik": "1610820",
+    "date_filed": "2026-01-14",
+    "file_name": "edgar/data/1610820/0001493152-26-002258.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Cambridge Acquisition Corp.",
+    "cik": "2100125",
+    "date_filed": "2026-02-06",
+    "file_name": "edgar/data/2100125/0001104659-26-011571.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Cantor Equity Partners VI, Inc.",
+    "cik": "2089536",
+    "date_filed": "2026-02-05",
+    "file_name": "edgar/data/2089536/0001213900-26-012881.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Clearthink 1 Acquisition Corp.",
+    "cik": "2094073",
+    "date_filed": "2026-02-25",
+    "file_name": "edgar/data/2094073/0001493152-26-007998.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Colombier Acquisition Corp. III",
+    "cik": "2091024",
+    "date_filed": "2026-02-04",
+    "file_name": "edgar/data/2091024/0001213900-26-011772.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Columbus Circle Capital Corp II",
+    "cik": "2088805",
+    "date_filed": "2026-02-11",
+    "file_name": "edgar/data/2088805/0001213900-26-014729.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Columbus Circle Capital Corp II",
+    "cik": "2088805",
+    "date_filed": "2026-02-11",
+    "file_name": "edgar/data/2088805/0001213900-26-014731.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "ContextLogic Holdings Inc.",
+    "cik": "2064307",
+    "date_filed": "2026-01-22",
+    "file_name": "edgar/data/2064307/0001140361-26-001959.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "D. Boral Acquisition I Corp.",
+    "cik": "2095161",
+    "date_filed": "2026-02-12",
+    "file_name": "edgar/data/2095161/0001213900-26-015252.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "DAXOR CORP",
+    "cik": "27367",
+    "date_filed": "2026-01-26",
+    "file_name": "edgar/data/27367/0001493152-26-003486.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Eikon Therapeutics, Inc.",
+    "cik": "1861123",
+    "date_filed": "2026-02-05",
+    "file_name": "edgar/data/1861123/0001193125-26-039375.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Elong Power Holding Ltd.",
+    "cik": "2015691",
+    "date_filed": "2026-02-03",
+    "file_name": "edgar/data/2015691/0001493152-26-004854.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Elong Power Holding Ltd.",
+    "cik": "2015691",
+    "date_filed": "2026-02-27",
+    "file_name": "edgar/data/2015691/0001493152-26-008271.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Envoy Medical, Inc.",
+    "cik": "1840877",
+    "date_filed": "2026-02-12",
+    "file_name": "edgar/data/1840877/0001213900-26-015230.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Envoy Medical, Inc.",
+    "cik": "1840877",
+    "date_filed": "2026-02-12",
+    "file_name": "edgar/data/1840877/0001213900-26-015232.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "EquipmentShare.com Inc",
+    "cik": "1693736",
+    "date_filed": "2026-01-26",
+    "file_name": "edgar/data/1693736/0001628280-26-003334.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Ethos Technologies Inc.",
+    "cik": "1788451",
+    "date_filed": "2026-01-30",
+    "file_name": "edgar/data/1788451/0001193125-26-029993.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "FG Imperii Acquisition Corp.",
+    "cik": "2090452",
+    "date_filed": "2026-01-20",
+    "file_name": "edgar/data/2090452/0001104659-26-004766.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Figure Technology Solutions, Inc.",
+    "cik": "2064124",
+    "date_filed": "2026-02-18",
+    "file_name": "edgar/data/2064124/0001628280-26-008786.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Forgent Power Solutions, Inc.",
+    "cik": "2080126",
+    "date_filed": "2026-02-06",
+    "file_name": "edgar/data/2080126/0001193125-26-040029.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Forgent Power Solutions, Inc.",
+    "cik": "2080126",
+    "date_filed": "2026-03-30",
+    "file_name": "edgar/data/2080126/0001193125-26-129984.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Fortress Value Acquisition Corp. V",
+    "cik": "1850733",
+    "date_filed": "2026-02-26",
+    "file_name": "edgar/data/1850733/0001213900-26-020875.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "FreeCast, Inc.",
+    "cik": "1633369",
+    "date_filed": "2026-03-04",
+    "file_name": "edgar/data/1633369/0001213900-26-023677.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Future Money Acquisition Corp",
+    "cik": "2099232",
+    "date_filed": "2026-03-27",
+    "file_name": "edgar/data/2099232/0001493152-26-013158.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "GalaxyEdge Acquisition Corp",
+    "cik": "2091484",
+    "date_filed": "2026-03-06",
+    "file_name": "edgar/data/2091484/0001829126-26-001986.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "GenFlat Holdings, Inc.",
+    "cik": "1796949",
+    "date_filed": "2026-02-03",
+    "file_name": "edgar/data/1796949/0001683168-26-000711.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Generate Biomedicines, Inc.",
+    "cik": "2100782",
+    "date_filed": "2026-02-27",
+    "file_name": "edgar/data/2100782/0001193125-26-083190.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "GigCapital9 Corp.",
+    "cik": "2098712",
+    "date_filed": "2026-01-28",
+    "file_name": "edgar/data/2098712/0001193125-26-025318.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Green Circle Decarbonize Technology Ltd",
+    "cik": "1926293",
+    "date_filed": "2026-01-13",
+    "file_name": "edgar/data/1926293/0001493152-26-002087.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Greenland Technologies Holding Corp.",
+    "cik": "1735041",
+    "date_filed": "2026-01-29",
+    "file_name": "edgar/data/1735041/0001213900-26-009091.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Guardian Metal Resources PLC",
+    "cik": "2039972",
+    "date_filed": "2026-03-23",
+    "file_name": "edgar/data/2039972/0001104659-26-032881.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "HCM IV Acquisition Corp.",
+    "cik": "2089982",
+    "date_filed": "2026-02-12",
+    "file_name": "edgar/data/2089982/0001213900-26-015513.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "HCW Biologics Inc.",
+    "cik": "1828673",
+    "date_filed": "2026-02-19",
+    "file_name": "edgar/data/1828673/0001193125-26-059279.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Helix Acquisition Corp. III",
+    "cik": "2099656",
+    "date_filed": "2026-01-23",
+    "file_name": "edgar/data/2099656/0001213900-26-007252.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Hennessy Capital Investment Corp. VIII",
+    "cik": "2099093",
+    "date_filed": "2026-02-05",
+    "file_name": "edgar/data/2099093/0001493152-26-005394.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Idea Acquisition Corp.",
+    "cik": "2091176",
+    "date_filed": "2026-02-11",
+    "file_name": "edgar/data/2091176/0001104659-26-013482.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Illumination Acquisition Corp. I",
+    "cik": "2101135",
+    "date_filed": "2026-02-27",
+    "file_name": "edgar/data/2101135/0001206774-26-000106.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Infinite Eagle Acquisition Corp.",
+    "cik": "2084396",
+    "date_filed": "2026-01-16",
+    "file_name": "edgar/data/2084396/0001213900-26-005159.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Inflection Point Acquisition Corp. VI",
+    "cik": "2102041",
+    "date_filed": "2026-03-30",
+    "file_name": "edgar/data/2102041/0001213900-26-035878.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Ingram Micro Holding Corp",
+    "cik": "1897762",
+    "date_filed": "2026-03-06",
+    "file_name": "edgar/data/1897762/0001628280-26-015645.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Innovation Beverage Group Ltd",
+    "cik": "1924482",
+    "date_filed": "2026-03-16",
+    "file_name": "edgar/data/1924482/0001731122-26-000399.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Iris Acquisition Corp II",
+    "cik": "2077785",
+    "date_filed": "2026-02-03",
+    "file_name": "edgar/data/2077785/0001185185-26-000390.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Iveda Solutions, Inc.",
+    "cik": "1397183",
+    "date_filed": "2026-02-11",
+    "file_name": "edgar/data/1397183/0001493152-26-006070.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Jaguar Uranium Corp.",
+    "cik": "2039273",
+    "date_filed": "2026-02-11",
+    "file_name": "edgar/data/2039273/0001213900-26-014610.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Janus Living, Inc.",
+    "cik": "2100805",
+    "date_filed": "2026-03-23",
+    "file_name": "edgar/data/2100805/0001104659-26-032901.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Jefferson Capital, Inc. / DE",
+    "cik": "2046042",
+    "date_filed": "2026-01-08",
+    "file_name": "edgar/data/2046042/0001104659-26-002168.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "K2 Capital Acquisition Corp",
+    "cik": "2086524",
+    "date_filed": "2026-01-30",
+    "file_name": "edgar/data/2086524/0001213900-26-009810.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "KRAKacquisition Corp",
+    "cik": "2082119",
+    "date_filed": "2026-01-29",
+    "file_name": "edgar/data/2082119/0001140361-26-002712.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Kensington Capital Acquisition Corp. VI",
+    "cik": "2102713",
+    "date_filed": "2026-03-05",
+    "file_name": "edgar/data/2102713/0001193125-26-092146.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "LOBO TECHNOLOGIES LTD.",
+    "cik": "1932072",
+    "date_filed": "2026-03-25",
+    "file_name": "edgar/data/1932072/0001493152-26-012602.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Laser Photonics Corp",
+    "cik": "1807887",
+    "date_filed": "2026-02-09",
+    "file_name": "edgar/data/1807887/0001493152-26-005741.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Liminatus Pharma, Inc.",
+    "cik": "1971387",
+    "date_filed": "2026-02-18",
+    "file_name": "edgar/data/1971387/0001104659-26-016706.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Linkers Industries Ltd",
+    "cik": "1972074",
+    "date_filed": "2026-03-24",
+    "file_name": "edgar/data/1972074/0001213900-26-033163.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "M Evo Global Acquisition Corp II",
+    "cik": "2087361",
+    "date_filed": "2026-02-02",
+    "file_name": "edgar/data/2087361/0001213900-26-010600.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "MDJM LTD",
+    "cik": "1741534",
+    "date_filed": "2026-02-11",
+    "file_name": "edgar/data/1741534/0001104659-26-012910.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "MOZAYYX Acquisition Corp.",
+    "cik": "2097376",
+    "date_filed": "2026-02-26",
+    "file_name": "edgar/data/2097376/0001213900-26-020595.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "MOZAYYX Acquisition Corp.",
+    "cik": "2097376",
+    "date_filed": "2026-02-26",
+    "file_name": "edgar/data/2097376/0001213900-26-020597.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Medline Inc.",
+    "cik": "2046386",
+    "date_filed": "2026-03-06",
+    "file_name": "edgar/data/2046386/0001193125-26-096456.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Megan Holdings Ltd.",
+    "cik": "1995075",
+    "date_filed": "2026-02-27",
+    "file_name": "edgar/data/1995075/0001213900-26-020884.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Meiwu Technology Co Ltd",
+    "cik": "1787803",
+    "date_filed": "2026-01-27",
+    "file_name": "edgar/data/1787803/0001493152-26-003788.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "MetaVia Inc.",
+    "cik": "1638287",
+    "date_filed": "2026-01-16",
+    "file_name": "edgar/data/1638287/0001104659-26-004337.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Metals Acquisition Corp. II",
+    "cik": "2107724",
+    "date_filed": "2026-03-12",
+    "file_name": "edgar/data/2107724/0001213900-26-027035.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "MiniMed Group, Inc.",
+    "cik": "2062583",
+    "date_filed": "2026-03-06",
+    "file_name": "edgar/data/2062583/0001628280-26-015648.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Modular Medical, Inc.",
+    "cik": "1074871",
+    "date_filed": "2026-03-04",
+    "file_name": "edgar/data/1074871/0001213900-26-023516.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Mountain Lake Acquisition Corp. II",
+    "cik": "2094265",
+    "date_filed": "2026-01-28",
+    "file_name": "edgar/data/2094265/0001213900-26-008487.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Muzero Acquisition Corp",
+    "cik": "2093484",
+    "date_filed": "2026-02-02",
+    "file_name": "edgar/data/2093484/0001213900-26-010463.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Neo-Concept International Group Holdings Ltd",
+    "cik": "1916331",
+    "date_filed": "2026-02-11",
+    "file_name": "edgar/data/1916331/0001213900-26-014624.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Newbridge Acquisition Ltd",
+    "cik": "1918414",
+    "date_filed": "2026-01-30",
+    "file_name": "edgar/data/1918414/0001213900-26-010179.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Nuburu, Inc.",
+    "cik": "1814215",
+    "date_filed": "2026-02-17",
+    "file_name": "edgar/data/1814215/0001193125-26-053786.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Once Upon a Farm, PBC",
+    "cik": "1696556",
+    "date_filed": "2026-02-09",
+    "file_name": "edgar/data/1696556/0001193125-26-041885.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "OneIM Acquisition Corp.",
+    "cik": "2088325",
+    "date_filed": "2026-01-14",
+    "file_name": "edgar/data/2088325/0001213900-26-004168.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "PALOMA ACQUISITION CORP I",
+    "cik": "2101562",
+    "date_filed": "2026-02-19",
+    "file_name": "edgar/data/2101562/0001104659-26-017592.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "PLUS THERAPEUTICS, INC.",
+    "cik": "1095981",
+    "date_filed": "2026-01-14",
+    "file_name": "edgar/data/1095981/0001193125-26-012905.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Park Ha Biological Technology Co., Ltd.",
+    "cik": "1986247",
+    "date_filed": "2026-01-28",
+    "file_name": "edgar/data/1986247/0001213900-26-008571.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "PayPay Corp",
+    "cik": "2080845",
+    "date_filed": "2026-03-12",
+    "file_name": "edgar/data/2080845/0002080845-26-000001.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Polaryx Therapeutics, Inc.",
+    "cik": "2075320",
+    "date_filed": "2026-02-02",
+    "file_name": "edgar/data/2075320/0001213900-26-010761.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Pono Capital Four, Inc.",
+    "cik": "2108164",
+    "date_filed": "2026-03-13",
+    "file_name": "edgar/data/2108164/0001213900-26-027596.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Pono Capital Four, Inc.",
+    "cik": "2108164",
+    "date_filed": "2026-03-13",
+    "file_name": "edgar/data/2108164/0001213900-26-027770.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Praetorian Acquisition Corp.",
+    "cik": "2093912",
+    "date_filed": "2026-01-26",
+    "file_name": "edgar/data/2093912/0001213900-26-007398.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "ProPetro Holding Corp.",
+    "cik": "1680247",
+    "date_filed": "2026-01-26",
+    "file_name": "edgar/data/1680247/0001104659-26-006607.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "ProPetro Holding Corp.",
+    "cik": "1680247",
+    "date_filed": "2026-01-28",
+    "file_name": "edgar/data/1680247/0001104659-26-007197.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Proem Acquisition Corp. I",
+    "cik": "2087446",
+    "date_filed": "2026-02-13",
+    "file_name": "edgar/data/2087446/0001213900-26-015712.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Public Policy Holding Company, Inc.",
+    "cik": "1903508",
+    "date_filed": "2026-01-29",
+    "file_name": "edgar/data/1903508/0001628280-26-004024.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "QDRO Acquisition Corp.",
+    "cik": "2083217",
+    "date_filed": "2026-03-27",
+    "file_name": "edgar/data/2083217/0001213900-26-035612.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "RF Acquisition Corp III",
+    "cik": "2091712",
+    "date_filed": "2026-02-12",
+    "file_name": "edgar/data/2091712/0001829126-26-001285.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Rank One Computing Corp",
+    "cik": "2077709",
+    "date_filed": "2026-02-20",
+    "file_name": "edgar/data/2077709/0001213900-26-018551.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Rank One Computing Corp",
+    "cik": "2077709",
+    "date_filed": "2026-02-20",
+    "file_name": "edgar/data/2077709/0001213900-26-018553.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Reliance Global Group, Inc.",
+    "cik": "1812727",
+    "date_filed": "2026-01-29",
+    "file_name": "edgar/data/1812727/0001493152-26-004162.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Republic Power Group Ltd",
+    "cik": "1912884",
+    "date_filed": "2026-01-29",
+    "file_name": "edgar/data/1912884/0001213900-26-009439.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Rubico Inc.",
+    "cik": "1943421",
+    "date_filed": "2026-01-12",
+    "file_name": "edgar/data/1943421/0001171843-26-000207.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "SOCIETY PASS INCORPORATED.",
+    "cik": "1817511",
+    "date_filed": "2026-02-13",
+    "file_name": "edgar/data/1817511/0001493152-26-006529.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "SOLV Energy, Inc.",
+    "cik": "2065636",
+    "date_filed": "2026-02-11",
+    "file_name": "edgar/data/2065636/0001193125-26-046879.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "SPACSphere Acquisition Corp.",
+    "cik": "2081300",
+    "date_filed": "2026-02-06",
+    "file_name": "edgar/data/2081300/0001829126-26-001006.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "STAK Inc.",
+    "cik": "2002453",
+    "date_filed": "2026-01-05",
+    "file_name": "edgar/data/2002453/0001493152-26-000242.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "SUMA Acquisition Corp",
+    "cik": "2105838",
+    "date_filed": "2026-03-11",
+    "file_name": "edgar/data/2105838/0001213900-26-026225.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "SharonAI Holdings Inc.",
+    "cik": "2068385",
+    "date_filed": "2026-02-19",
+    "file_name": "edgar/data/2068385/0001829126-26-001448.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Signing Day Sports, Inc.",
+    "cik": "1898474",
+    "date_filed": "2026-01-14",
+    "file_name": "edgar/data/1898474/0001213900-26-004197.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Soren Acquisition Corp.",
+    "cik": "2086263",
+    "date_filed": "2026-01-08",
+    "file_name": "edgar/data/2086263/0001213900-26-002346.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Space Asset Acquisition Corp.",
+    "cik": "2091222",
+    "date_filed": "2026-01-28",
+    "file_name": "edgar/data/2091222/0001213900-26-008891.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Spartacus Acquisition Corp. II",
+    "cik": "2097364",
+    "date_filed": "2026-02-11",
+    "file_name": "edgar/data/2097364/0001213900-26-014740.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Spring Valley Acquisition Corp. IV",
+    "cik": "2098242",
+    "date_filed": "2026-02-10",
+    "file_name": "edgar/data/2098242/0001104659-26-012742.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "SpyGlass Pharma, Inc.",
+    "cik": "1778922",
+    "date_filed": "2026-02-06",
+    "file_name": "edgar/data/1778922/0001628280-26-006068.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Stardust Power Inc.",
+    "cik": "1831979",
+    "date_filed": "2026-02-11",
+    "file_name": "edgar/data/1831979/0001493152-26-006057.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Stardust Power Inc.",
+    "cik": "1831979",
+    "date_filed": "2026-03-03",
+    "file_name": "edgar/data/1831979/0001493152-26-008594.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Swarmer, Inc",
+    "cik": "2092574",
+    "date_filed": "2026-03-17",
+    "file_name": "edgar/data/2092574/0001104659-26-029590.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "TG-17, Inc.",
+    "cik": "1756064",
+    "date_filed": "2026-02-03",
+    "file_name": "edgar/data/1756064/0001493152-26-004930.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "TRG Latin America Acquisitions Corp.",
+    "cik": "2098780",
+    "date_filed": "2026-02-26",
+    "file_name": "edgar/data/2098780/0001213900-26-020576.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Twin Vee PowerCats, Co.",
+    "cik": "1855509",
+    "date_filed": "2026-02-23",
+    "file_name": "edgar/data/1855509/0001731122-26-000273.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "U Power Ltd",
+    "cik": "1939780",
+    "date_filed": "2026-03-20",
+    "file_name": "edgar/data/1939780/0001213900-26-032141.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "United Acquisition Corp. I",
+    "cik": "2098669",
+    "date_filed": "2026-01-29",
+    "file_name": "edgar/data/2098669/0001493152-26-004195.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Veradermics, Inc",
+    "cik": "1827635",
+    "date_filed": "2026-02-04",
+    "file_name": "edgar/data/1827635/0001628280-26-005505.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Virtuix Holdings Inc.",
+    "cik": "1606242",
+    "date_filed": "2026-01-26",
+    "file_name": "edgar/data/1606242/0001213900-26-007731.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "White Pearl Acquisition Corp.",
+    "cik": "2081536",
+    "date_filed": "2026-01-30",
+    "file_name": "edgar/data/2081536/0001213900-26-010324.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Willow Lane Acquisition Corp. II",
+    "cik": "2083946",
+    "date_filed": "2026-02-13",
+    "file_name": "edgar/data/2083946/0001213900-26-016574.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "X3 Acquisition Corp. Ltd.",
+    "cik": "2083493",
+    "date_filed": "2026-01-21",
+    "file_name": "edgar/data/2083493/0001493152-26-003090.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "XFLH Capital Corp",
+    "cik": "2088103",
+    "date_filed": "2026-02-12",
+    "file_name": "edgar/data/2088103/0001185185-26-000538.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Xsolla SPAC 1",
+    "cik": "2088807",
+    "date_filed": "2026-01-29",
+    "file_name": "edgar/data/2088807/0001213900-26-009645.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Yellowstone Midco Holdings II, LLC",
+    "cik": "2086587",
+    "date_filed": "2026-01-30",
+    "file_name": "edgar/data/2086587/0001193125-26-030469.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "cbdMD, Inc.",
+    "cik": "1644903",
+    "date_filed": "2026-03-04",
+    "file_name": "edgar/data/1644903/0001437749-26-006933.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "zSpace, Inc.",
+    "cik": "1637147",
+    "date_filed": "2026-02-17",
+    "file_name": "edgar/data/1637147/0001104659-26-015710.txt",
+    "qtr": "QTR1"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "ACP Holdings Acquisition Corp.",
+    "cik": "2111542",
+    "date_filed": "2026-04-07",
+    "file_name": "edgar/data/2111542/0001213900-26-041121.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "AEVEX Corp.",
+    "cik": "2096300",
+    "date_filed": "2026-04-20",
+    "file_name": "edgar/data/2096300/0001193125-26-162601.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "AEVEX Corp.",
+    "cik": "2096300",
+    "date_filed": "2026-06-05",
+    "file_name": "edgar/data/2096300/0001193125-26-258295.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "AIAI Holdings Corp",
+    "cik": "2096362",
+    "date_filed": "2026-05-14",
+    "file_name": "edgar/data/2096362/0001493152-26-022855.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "AIAI Holdings Corp",
+    "cik": "2096362",
+    "date_filed": "2026-06-23",
+    "file_name": "edgar/data/2096362/0001493152-26-029830.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "AMASS BRANDS",
+    "cik": "1851491",
+    "date_filed": "2026-05-18",
+    "file_name": "edgar/data/1851491/0001575872-26-000343.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "ARC Group Acquisition I Corp.",
+    "cik": "2073515",
+    "date_filed": "2026-04-30",
+    "file_name": "edgar/data/2073515/0001493152-26-019705.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "AUDDIA INC.",
+    "cik": "1554818",
+    "date_filed": "2026-04-27",
+    "file_name": "edgar/data/1554818/0001683168-26-003222.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Aeon Acquisition I Corp.",
+    "cik": "2082526",
+    "date_filed": "2026-06-03",
+    "file_name": "edgar/data/2082526/0001493152-26-027037.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Alamar Biosciences, Inc.",
+    "cik": "2104204",
+    "date_filed": "2026-04-17",
+    "file_name": "edgar/data/2104204/0001193125-26-161647.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Algorhythm Holdings, Inc.",
+    "cik": "923601",
+    "date_filed": "2026-06-04",
+    "file_name": "edgar/data/923601/0001493152-26-027278.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Alpex Acquisition Corp",
+    "cik": "2125551",
+    "date_filed": "2026-06-25",
+    "file_name": "edgar/data/2125551/0001213900-26-072089.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Amanat Acquisition Corp.",
+    "cik": "2112457",
+    "date_filed": "2026-05-20",
+    "file_name": "edgar/data/2112457/0001213900-26-059197.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Ambiq Micro, Inc.",
+    "cik": "1500412",
+    "date_filed": "2026-06-25",
+    "file_name": "edgar/data/1500412/0001193125-26-281376.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "AmperCap Acquisition Co",
+    "cik": "2101393",
+    "date_filed": "2026-06-03",
+    "file_name": "edgar/data/2101393/0001185185-26-002324.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Aperture AC",
+    "cik": "2093524",
+    "date_filed": "2026-05-21",
+    "file_name": "edgar/data/2093524/0001213900-26-060082.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Apogee Acquisition Corp",
+    "cik": "2102123",
+    "date_filed": "2026-04-08",
+    "file_name": "edgar/data/2102123/0001213900-26-041183.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Applied Aerospace & Defense, Inc.",
+    "cik": "2118195",
+    "date_filed": "2026-06-04",
+    "file_name": "edgar/data/2118195/0001193125-26-256356.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Aptera Motors Corp",
+    "cik": "1786471",
+    "date_filed": "2026-04-21",
+    "file_name": "edgar/data/1786471/0001493152-26-018301.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Ares Acquisition Corp III",
+    "cik": "2128115",
+    "date_filed": "2026-06-30",
+    "file_name": "edgar/data/2128115/0001104659-26-079331.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Arxis, Inc.",
+    "cik": "2093536",
+    "date_filed": "2026-04-16",
+    "file_name": "edgar/data/2093536/0001193125-26-159369.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Avalyn Pharma Inc.",
+    "cik": "1540171",
+    "date_filed": "2026-04-30",
+    "file_name": "edgar/data/1540171/0001193125-26-197686.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "BIOLARGO, INC.",
+    "cik": "880242",
+    "date_filed": "2026-04-17",
+    "file_name": "edgar/data/880242/0001437749-26-012699.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "BIOLARGO, INC.",
+    "cik": "880242",
+    "date_filed": "2026-04-17",
+    "file_name": "edgar/data/880242/0001437749-26-012700.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Berto Acquisition Corp. II",
+    "cik": "2081515",
+    "date_filed": "2026-05-18",
+    "file_name": "edgar/data/2081515/0001829126-26-005386.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Blackstone Digital Infrastructure Trust Inc.",
+    "cik": "2100161",
+    "date_filed": "2026-05-15",
+    "file_name": "edgar/data/2100161/0001193125-26-225090.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "BlockchAIn Digital Infrastructure, Inc.",
+    "cik": "2070542",
+    "date_filed": "2026-06-08",
+    "file_name": "edgar/data/2070542/0001213900-26-065972.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Breeze Acquisition Corp. II",
+    "cik": "2095443",
+    "date_filed": "2026-05-14",
+    "file_name": "edgar/data/2095443/0001213900-26-056033.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "BurTech Acquisition Corp II",
+    "cik": "2098707",
+    "date_filed": "2026-05-26",
+    "file_name": "edgar/data/2098707/0001213900-26-060733.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "CEL SCI CORP",
+    "cik": "725363",
+    "date_filed": "2026-05-13",
+    "file_name": "edgar/data/725363/0001654954-26-004757.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "CH4 Natural Solutions Corp",
+    "cik": "2044817",
+    "date_filed": "2026-05-04",
+    "file_name": "edgar/data/2044817/0001193125-26-202944.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "CIMG Inc.",
+    "cik": "1527613",
+    "date_filed": "2026-06-18",
+    "file_name": "edgar/data/1527613/0001493152-26-029327.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Cantor Equity Partners VII, Inc.",
+    "cik": "2087965",
+    "date_filed": "2026-06-17",
+    "file_name": "edgar/data/2087965/0001213900-26-069612.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Cardinal Infrastructure Group Inc.",
+    "cik": "2079999",
+    "date_filed": "2026-06-25",
+    "file_name": "edgar/data/2079999/0001213900-26-072043.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Cartesian Growth Corp IV",
+    "cik": "2126043",
+    "date_filed": "2026-06-25",
+    "file_name": "edgar/data/2126043/0001185185-26-002653.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Cerebras Systems Inc.",
+    "cik": "2021728",
+    "date_filed": "2026-05-14",
+    "file_name": "edgar/data/2021728/0001628280-26-035214.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Churchill Capital Corp XII",
+    "cik": "2114227",
+    "date_filed": "2026-04-28",
+    "file_name": "edgar/data/2114227/0001213900-26-048413.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Collective Acquisition Corp. II",
+    "cik": "2115404",
+    "date_filed": "2026-04-29",
+    "file_name": "edgar/data/2115404/0001213900-26-049306.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Conexeu Sciences Inc.",
+    "cik": "2066836",
+    "date_filed": "2026-05-11",
+    "file_name": "edgar/data/2066836/0001062993-26-002473.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Constellation Energy Corp",
+    "cik": "1868275",
+    "date_filed": "2026-06-02",
+    "file_name": "edgar/data/1868275/0001104659-26-069201.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "DEEP FISSION, INC.",
+    "cik": "1918102",
+    "date_filed": "2026-06-18",
+    "file_name": "edgar/data/1918102/0001104659-26-075763.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "DISCIPLINED GROWTH ACQUISITION Corp",
+    "cik": "2111038",
+    "date_filed": "2026-05-28",
+    "file_name": "edgar/data/2111038/0001185185-26-002141.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "DPC Holdings Ltd",
+    "cik": "2107018",
+    "date_filed": "2026-06-26",
+    "file_name": "edgar/data/2107018/0001104659-26-077968.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "DSC Holdings Ltd.",
+    "cik": "1966041",
+    "date_filed": "2026-06-26",
+    "file_name": "edgar/data/1966041/0001213900-26-072276.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "DUKE Robotics Corp.",
+    "cik": "1638911",
+    "date_filed": "2026-05-18",
+    "file_name": "edgar/data/1638911/0001213900-26-058179.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "DUKE Robotics Corp.",
+    "cik": "1638911",
+    "date_filed": "2026-05-18",
+    "file_name": "edgar/data/1638911/0001213900-26-058180.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "DentonX Inc",
+    "cik": "2093375",
+    "date_filed": "2026-05-12",
+    "file_name": "edgar/data/2093375/0002093375-26-000010.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "ERock, Inc.",
+    "cik": "2110029",
+    "date_filed": "2026-06-10",
+    "file_name": "edgar/data/2110029/0001193125-26-265898.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "EagleRock Land, LLC",
+    "cik": "2104882",
+    "date_filed": "2026-05-14",
+    "file_name": "edgar/data/2104882/0001193125-26-224302.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Elmet Group Co.",
+    "cik": "2101698",
+    "date_filed": "2026-04-23",
+    "file_name": "edgar/data/2101698/0001213900-26-047144.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Elong Power Holding Ltd.",
+    "cik": "2015691",
+    "date_filed": "2026-05-18",
+    "file_name": "edgar/data/2015691/0001493152-26-024119.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Eloxx Pharmaceuticals, Inc.",
+    "cik": "1035354",
+    "date_filed": "2026-06-09",
+    "file_name": "edgar/data/1035354/0001193125-26-263914.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Energy Transition Special Opportunities",
+    "cik": "2085932",
+    "date_filed": "2026-05-15",
+    "file_name": "edgar/data/2085932/0001213900-26-057807.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Exyn Technologies, Inc.",
+    "cik": "1960355",
+    "date_filed": "2026-05-15",
+    "file_name": "edgar/data/1960355/0001104659-26-062711.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "FOCUS UNIVERSAL INC.",
+    "cik": "1590418",
+    "date_filed": "2026-06-04",
+    "file_name": "edgar/data/1590418/0001683168-26-004516.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Fervo Energy Co",
+    "cik": "1853868",
+    "date_filed": "2026-05-14",
+    "file_name": "edgar/data/1853868/0001628280-26-034849.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "FibroBiologics, Inc.",
+    "cik": "1958777",
+    "date_filed": "2026-04-01",
+    "file_name": "edgar/data/1958777/0001193125-26-137949.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Firefly Aerospace Inc.",
+    "cik": "1860160",
+    "date_filed": "2026-06-01",
+    "file_name": "edgar/data/1860160/0001193125-26-249159.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "First Carolina Financial Services, Inc.",
+    "cik": "1531193",
+    "date_filed": "2026-06-18",
+    "file_name": "edgar/data/1531193/0001140361-26-025790.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Fitness Champs Holdings Ltd",
+    "cik": "2023796",
+    "date_filed": "2026-04-20",
+    "file_name": "edgar/data/2023796/0001493152-26-018037.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Forbright, Inc.",
+    "cik": "1925062",
+    "date_filed": "2026-06-11",
+    "file_name": "edgar/data/1925062/0001628280-26-042580.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Forefront Tech Holdings Acquisition Corp",
+    "cik": "2097986",
+    "date_filed": "2026-05-01",
+    "file_name": "edgar/data/2097986/0001213900-26-050604.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Forgent Power Solutions, Inc.",
+    "cik": "2080126",
+    "date_filed": "2026-06-01",
+    "file_name": "edgar/data/2080126/0001193125-26-249223.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "FortuneX Acquisition Corp",
+    "cik": "2121703",
+    "date_filed": "2026-05-22",
+    "file_name": "edgar/data/2121703/0001829126-26-005633.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Freenome Holdings, Inc.",
+    "cik": "1676446",
+    "date_filed": "2026-06-17",
+    "file_name": "edgar/data/1676446/0001140361-26-025588.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "FutureCorp Space Acquisition 1",
+    "cik": "2131853",
+    "date_filed": "2026-06-05",
+    "file_name": "edgar/data/2131853/0001213900-26-065927.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Futurewave Acquisition Corp",
+    "cik": "2116105",
+    "date_filed": "2026-06-26",
+    "file_name": "edgar/data/2116105/0001829126-26-006890.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "GABELLI EQUITY TRUST INC",
+    "cik": "794685",
+    "date_filed": "2026-04-01",
+    "file_name": "edgar/data/794685/0001829126-26-003035.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "GENERATION INCOME PROPERTIES, INC.",
+    "cik": "1651721",
+    "date_filed": "2026-06-01",
+    "file_name": "edgar/data/1651721/0001193125-26-250992.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "GMR Solutions Inc.",
+    "cik": "1898718",
+    "date_filed": "2026-05-14",
+    "file_name": "edgar/data/1898718/0001104659-26-060835.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "GOLDMAN SACHS GROUP INC",
+    "cik": "886982",
+    "date_filed": "2026-05-29",
+    "file_name": "edgar/data/886982/0001193125-26-247269.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "GSR V Acquisition Corp.",
+    "cik": "2111762",
+    "date_filed": "2026-05-14",
+    "file_name": "edgar/data/2111762/0001213900-26-056703.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "General Catalyst Global Resilience Merger Corp.",
+    "cik": "2108962",
+    "date_filed": "2026-04-30",
+    "file_name": "edgar/data/2108962/0001213900-26-050441.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Gores Holdings XI, Inc.",
+    "cik": "2086438",
+    "date_filed": "2026-06-23",
+    "file_name": "edgar/data/2086438/0001193125-26-279710.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Greenland Energy Co",
+    "cik": "2093507",
+    "date_filed": "2026-04-29",
+    "file_name": "edgar/data/2093507/0001829126-26-004054.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "HMH Holding Inc",
+    "cik": "2021880",
+    "date_filed": "2026-04-01",
+    "file_name": "edgar/data/2021880/0001193125-26-138102.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "HawkEye 360, Inc.",
+    "cik": "1750704",
+    "date_filed": "2026-05-07",
+    "file_name": "edgar/data/1750704/0001628280-26-032207.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Hemab Therapeutics Holdings, Inc.",
+    "cik": "2114044",
+    "date_filed": "2026-05-01",
+    "file_name": "edgar/data/2114044/0001193125-26-201458.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "INNIO N.V.",
+    "cik": "2109150",
+    "date_filed": "2026-06-04",
+    "file_name": "edgar/data/2109150/0001193125-26-256992.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "InterPrivate Investment Partners V, Inc.",
+    "cik": "2105274",
+    "date_filed": "2026-06-04",
+    "file_name": "edgar/data/2105274/0001213900-26-065230.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Irenic Acquisition Corp.",
+    "cik": "2122505",
+    "date_filed": "2026-04-28",
+    "file_name": "edgar/data/2122505/0001104659-26-050295.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Iron Dome Acquisition I Corp.",
+    "cik": "2090441",
+    "date_filed": "2026-05-15",
+    "file_name": "edgar/data/2090441/0001213900-26-057787.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "JAB Acquisition Corp I",
+    "cik": "2128739",
+    "date_filed": "2026-06-10",
+    "file_name": "edgar/data/2128739/0001213900-26-067360.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "JATT II Acquisition Corp.",
+    "cik": "2112446",
+    "date_filed": "2026-04-17",
+    "file_name": "edgar/data/2112446/0001213900-26-044954.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Janus Living, Inc.",
+    "cik": "2100805",
+    "date_filed": "2026-06-03",
+    "file_name": "edgar/data/2100805/0001104659-26-070188.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "KPET Ultra Paceline Corp",
+    "cik": "2095297",
+    "date_filed": "2026-04-01",
+    "file_name": "edgar/data/2095297/0001213900-26-038033.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Kailera Therapeutics, Inc.",
+    "cik": "2096997",
+    "date_filed": "2026-04-17",
+    "file_name": "edgar/data/2096997/0001193125-26-161521.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Kardigan, Inc.",
+    "cik": "2123613",
+    "date_filed": "2026-06-18",
+    "file_name": "edgar/data/2123613/0001193125-26-276096.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Keystone Acquisition Corp.",
+    "cik": "2102771",
+    "date_filed": "2026-06-03",
+    "file_name": "edgar/data/2102771/0001213900-26-064746.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "LIBERTY DEFENSE HOLDINGS, LTD.",
+    "cik": "1919776",
+    "date_filed": "2026-04-21",
+    "file_name": "edgar/data/1919776/0001104659-26-046160.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "LIQTECH INTERNATIONAL INC",
+    "cik": "1307579",
+    "date_filed": "2026-06-05",
+    "file_name": "edgar/data/1307579/0001437749-26-019738.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Lakewood-Amedex Biotherapeutics Inc.",
+    "cik": "2079272",
+    "date_filed": "2026-04-23",
+    "file_name": "edgar/data/2079272/0001213900-26-047113.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Lakewood-Amedex Biotherapeutics Inc.",
+    "cik": "2079272",
+    "date_filed": "2026-05-14",
+    "file_name": "edgar/data/2079272/0001213900-26-056648.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Legence Corp.",
+    "cik": "2052568",
+    "date_filed": "2026-04-08",
+    "file_name": "edgar/data/2052568/0001193125-26-147659.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Liftoff Mobile, Inc.",
+    "cik": "1850351",
+    "date_filed": "2026-06-04",
+    "file_name": "edgar/data/1850351/0001193125-26-257410.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Lincoln International, Inc.",
+    "cik": "1925283",
+    "date_filed": "2026-05-21",
+    "file_name": "edgar/data/1925283/0001628280-26-037044.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Long Table Growth Corp.",
+    "cik": "2104177",
+    "date_filed": "2026-06-04",
+    "file_name": "edgar/data/2104177/0001213900-26-065344.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "MACH NATURAL RESOURCES LP",
+    "cik": "1980088",
+    "date_filed": "2026-04-08",
+    "file_name": "edgar/data/1980088/0001213900-26-041190.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Madison Air Solutions Corp",
+    "cik": "2098430",
+    "date_filed": "2026-04-17",
+    "file_name": "edgar/data/2098430/0001193125-26-160250.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Magnum Ice Cream Co N.V.",
+    "cik": "2071668",
+    "date_filed": "2026-04-13",
+    "file_name": "edgar/data/2071668/0001104659-26-042683.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Maywood Acquisition Corp. 2",
+    "cik": "2080087",
+    "date_filed": "2026-04-14",
+    "file_name": "edgar/data/2080087/0001477932-26-002206.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Medline Inc.",
+    "cik": "2046386",
+    "date_filed": "2026-05-26",
+    "file_name": "edgar/data/2046386/0001193125-26-239247.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Metals Royalty Co Inc.",
+    "cik": "2087398",
+    "date_filed": "2026-04-08",
+    "file_name": "edgar/data/2087398/0001104659-26-040599.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Micware Co., Ltd.",
+    "cik": "2083526",
+    "date_filed": "2026-05-15",
+    "file_name": "edgar/data/2083526/0001829126-26-005249.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Mobia Medical, Inc.",
+    "cik": "1489993",
+    "date_filed": "2026-05-08",
+    "file_name": "edgar/data/1489993/0001628280-26-032843.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Mountain Crest Acquisition 6 Corp.",
+    "cik": "2109876",
+    "date_filed": "2026-04-30",
+    "file_name": "edgar/data/2109876/0001829126-26-004283.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "National Healthcare Properties, Inc.",
+    "cik": "1561032",
+    "date_filed": "2026-04-22",
+    "file_name": "edgar/data/1561032/0001628280-26-026541.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Neptune Insurance Holdings Inc.",
+    "cik": "2067129",
+    "date_filed": "2026-05-14",
+    "file_name": "edgar/data/2067129/0001628280-26-035207.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "NewHold Investment Corp IV",
+    "cik": "2099767",
+    "date_filed": "2026-04-16",
+    "file_name": "edgar/data/2099767/0001213900-26-044337.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Nuwellis, Inc.",
+    "cik": "1506492",
+    "date_filed": "2026-06-08",
+    "file_name": "edgar/data/1506492/0001140361-26-024372.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Ocean Capital Acquisition Corp",
+    "cik": "1926314",
+    "date_filed": "2026-06-10",
+    "file_name": "edgar/data/1926314/0001493152-26-028056.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Oceanhawk Acquisition Corp.",
+    "cik": "2090787",
+    "date_filed": "2026-05-22",
+    "file_name": "edgar/data/2090787/0001213900-26-060247.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Odyssey Therapeutics, Inc.",
+    "cik": "1882782",
+    "date_filed": "2026-05-08",
+    "file_name": "edgar/data/1882782/0001193125-26-214819.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Optimi Health Corp.",
+    "cik": "2027329",
+    "date_filed": "2026-05-20",
+    "file_name": "edgar/data/2027329/0001193125-26-231760.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "PERSHING SQUARE INC.",
+    "cik": "2026053",
+    "date_filed": "2026-04-30",
+    "file_name": "edgar/data/2026053/0001140361-26-018103.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Parabilis Medicines, Inc.",
+    "cik": "1657677",
+    "date_filed": "2026-06-10",
+    "file_name": "edgar/data/1657677/0001193125-26-265983.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Patriot Acquisition Corp./CI",
+    "cik": "2099095",
+    "date_filed": "2026-05-18",
+    "file_name": "edgar/data/2099095/0001213900-26-058156.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Pattern Group Inc.",
+    "cik": "1811935",
+    "date_filed": "2026-06-17",
+    "file_name": "edgar/data/1811935/0001628280-26-043986.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Peace Acquisition Corp.",
+    "cik": "2088626",
+    "date_filed": "2026-05-22",
+    "file_name": "edgar/data/2088626/0001493152-26-024922.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Perceptive Capital Solutions Corp",
+    "cik": "2017526",
+    "date_filed": "2026-06-17",
+    "file_name": "edgar/data/2017526/0001140361-26-025588.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Pershing Square USA, Ltd.",
+    "cik": "2002660",
+    "date_filed": "2026-04-30",
+    "file_name": "edgar/data/2002660/0001140361-26-018104.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Picard Medical, Inc.",
+    "cik": "2030617",
+    "date_filed": "2026-05-06",
+    "file_name": "edgar/data/2030617/0001829126-26-004627.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Plutonian Acquisition Corp. II",
+    "cik": "2065661",
+    "date_filed": "2026-04-28",
+    "file_name": "edgar/data/2065661/0001477932-26-002617.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Quantinuum Inc.",
+    "cik": "2110105",
+    "date_filed": "2026-06-05",
+    "file_name": "edgar/data/2110105/0001628280-26-041003.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Quantum Leap Acquisition Corp",
+    "cik": "2102155",
+    "date_filed": "2026-05-04",
+    "file_name": "edgar/data/2102155/0001213900-26-051097.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Quantum Leap Acquisition Corp",
+    "cik": "2102155",
+    "date_filed": "2026-05-04",
+    "file_name": "edgar/data/2102155/0001213900-26-051150.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "QuasarEdge Acquisition Corp",
+    "cik": "2085177",
+    "date_filed": "2026-04-16",
+    "file_name": "edgar/data/2085177/0001829126-26-003546.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "RMG ML Sports Holdings",
+    "cik": "2104879",
+    "date_filed": "2026-06-11",
+    "file_name": "edgar/data/2104879/0001213900-26-067558.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "RRE Ventures Acquisition Corp.",
+    "cik": "2123969",
+    "date_filed": "2026-05-01",
+    "file_name": "edgar/data/2123969/0001193125-26-199374.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Rare Earths Americas, Inc.",
+    "cik": "2095743",
+    "date_filed": "2026-05-07",
+    "file_name": "edgar/data/2095743/0001193125-26-209799.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Real Messenger Corp",
+    "cik": "1983324",
+    "date_filed": "2026-06-09",
+    "file_name": "edgar/data/1983324/0001493152-26-027814.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Republic Power Group Ltd",
+    "cik": "1912884",
+    "date_filed": "2026-04-03",
+    "file_name": "edgar/data/1912884/0001213900-26-039917.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Research Alliance Corp III",
+    "cik": "2118032",
+    "date_filed": "2026-05-20",
+    "file_name": "edgar/data/2118032/0001193125-26-232525.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Rubico Inc.",
+    "cik": "1943421",
+    "date_filed": "2026-05-21",
+    "file_name": "edgar/data/1943421/0001171843-26-003602.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Rush Street Interactive, Inc.",
+    "cik": "1793659",
+    "date_filed": "2026-05-06",
+    "file_name": "edgar/data/1793659/0001793659-26-000033.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "SILVER BOW MINING CORP.",
+    "cik": "2067674",
+    "date_filed": "2026-04-30",
+    "file_name": "edgar/data/2067674/0001539497-26-001250.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "SILVER BOW MINING CORP.",
+    "cik": "2067674",
+    "date_filed": "2026-05-01",
+    "file_name": "edgar/data/2067674/0001539497-26-001267.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "SOLV Energy, Inc.",
+    "cik": "2065636",
+    "date_filed": "2026-05-29",
+    "file_name": "edgar/data/2065636/0001193125-26-248671.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "SPACE EXPLORATION TECHNOLOGIES CORP",
+    "cik": "1181412",
+    "date_filed": "2026-06-12",
+    "file_name": "edgar/data/1181412/0001628280-26-042639.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "SUJA LIFE, INC.",
+    "cik": "1934114",
+    "date_filed": "2026-05-08",
+    "file_name": "edgar/data/1934114/0001104659-26-057504.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "SYNTEC OPTICS HOLDINGS, INC.",
+    "cik": "1866816",
+    "date_filed": "2026-04-30",
+    "file_name": "edgar/data/1866816/0001493152-26-019779.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Seaport Therapeutics, Inc.",
+    "cik": "2042347",
+    "date_filed": "2026-05-01",
+    "file_name": "edgar/data/2042347/0001193125-26-201758.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Shreya Acquisition Group",
+    "cik": "2083452",
+    "date_filed": "2026-05-07",
+    "file_name": "edgar/data/2083452/0001829126-26-004652.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Sinda Ltd.",
+    "cik": "2096861",
+    "date_filed": "2026-06-29",
+    "file_name": "edgar/data/2096861/0001140361-26-026625.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Snow Rothschild Acquisition Corp.",
+    "cik": "2123475",
+    "date_filed": "2026-06-09",
+    "file_name": "edgar/data/2123475/0001213900-26-066805.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Sonoma Pharmaceuticals, Inc.",
+    "cik": "1367083",
+    "date_filed": "2026-04-27",
+    "file_name": "edgar/data/1367083/0001683168-26-003212.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Starlink AI Acquisition Corp",
+    "cik": "2094076",
+    "date_filed": "2026-05-08",
+    "file_name": "edgar/data/2094076/0001493152-26-021885.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Sunshine Biopharma Inc.",
+    "cik": "1402328",
+    "date_filed": "2026-05-19",
+    "file_name": "edgar/data/1402328/0001683168-26-004098.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Sunshine Silver Mining & Refining Co",
+    "cik": "2091017",
+    "date_filed": "2026-06-05",
+    "file_name": "edgar/data/2091017/0001140361-26-024037.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "TEN Holdings, Inc.",
+    "cik": "2030954",
+    "date_filed": "2026-06-29",
+    "file_name": "edgar/data/2030954/0001493152-26-031078.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "TJGC GROUP Ltd",
+    "cik": "1969928",
+    "date_filed": "2026-04-16",
+    "file_name": "edgar/data/1969928/0001213900-26-044373.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Tecnoglass Inc.",
+    "cik": "1534675",
+    "date_filed": "2026-05-14",
+    "file_name": "edgar/data/1534675/0001493152-26-022850.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Tenon Medical, Inc.",
+    "cik": "1560293",
+    "date_filed": "2026-06-30",
+    "file_name": "edgar/data/1560293/0001213900-26-073848.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Texas Ventures Acquisition IV Corp",
+    "cik": "2096755",
+    "date_filed": "2026-06-18",
+    "file_name": "edgar/data/2096755/0001213900-26-070224.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Tianci International, Inc.",
+    "cik": "1557798",
+    "date_filed": "2026-06-17",
+    "file_name": "edgar/data/1557798/0001683168-26-004899.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Tribeca Strategic Acquisition Corp.",
+    "cik": "2094919",
+    "date_filed": "2026-06-01",
+    "file_name": "edgar/data/2094919/0001213900-26-063058.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "VIDA Global Inc.",
+    "cik": "1973062",
+    "date_filed": "2026-05-18",
+    "file_name": "edgar/data/1973062/0001493152-26-024102.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "VIDA Global Inc.",
+    "cik": "1973062",
+    "date_filed": "2026-05-18",
+    "file_name": "edgar/data/1973062/0001493152-26-024106.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Veradermics, Inc",
+    "cik": "1827635",
+    "date_filed": "2026-04-30",
+    "file_name": "edgar/data/1827635/0001628280-26-029027.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Vernal Capital Acquisition Corp.",
+    "cik": "2081690",
+    "date_filed": "2026-05-07",
+    "file_name": "edgar/data/2081690/0001213900-26-053081.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "VivoSim Labs, INC.",
+    "cik": "1497253",
+    "date_filed": "2026-04-02",
+    "file_name": "edgar/data/1497253/0001213900-26-039307.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "West Enclave Merger Corp.",
+    "cik": "2104260",
+    "date_filed": "2026-04-30",
+    "file_name": "edgar/data/2104260/0001193125-26-194920.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "WhiteHawk Income Corp",
+    "cik": "1921603",
+    "date_filed": "2026-06-09",
+    "file_name": "edgar/data/1921603/0001193125-26-264014.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Wilco 63 Corp",
+    "cik": "2101470",
+    "date_filed": "2026-06-22",
+    "file_name": "edgar/data/2101470/0001213900-26-070283.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "X-Energy, Inc.",
+    "cik": "2088896",
+    "date_filed": "2026-04-27",
+    "file_name": "edgar/data/2088896/0001104659-26-049515.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "XORTX Therapeutics Inc.",
+    "cik": "1729214",
+    "date_filed": "2026-05-15",
+    "file_name": "edgar/data/1729214/0001104659-26-062030.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Yesway, Inc.",
+    "cik": "1859836",
+    "date_filed": "2026-04-23",
+    "file_name": "edgar/data/1859836/0001104659-26-047210.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Yorkville International Capital Corp.",
+    "cik": "2130386",
+    "date_filed": "2026-06-16",
+    "file_name": "edgar/data/2130386/0001104659-26-074584.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Zhongchao Inc.",
+    "cik": "1785566",
+    "date_filed": "2026-06-01",
+    "file_name": "edgar/data/1785566/0001213900-26-063256.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "bioAffinity Technologies, Inc.",
+    "cik": "1712762",
+    "date_filed": "2026-06-18",
+    "file_name": "edgar/data/1712762/0001493152-26-029206.txt",
+    "qtr": "QTR2"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "ABVC BIOPHARMA, INC.",
+    "cik": "1173313",
+    "date_filed": "2026-08-17",
+    "file_name": "edgar/data/1173313/0001213900-26-090775.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "ABVC BIOPHARMA, INC.",
+    "cik": "1173313",
+    "date_filed": "2026-08-17",
+    "file_name": "edgar/data/1173313/0001213900-26-090777.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "ABVC BIOPHARMA, INC.",
+    "cik": "1173313",
+    "date_filed": "2026-08-17",
+    "file_name": "edgar/data/1173313/0001213900-26-090778.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "ABVC BIOPHARMA, INC.",
+    "cik": "1173313",
+    "date_filed": "2026-08-17",
+    "file_name": "edgar/data/1173313/0001213900-26-090779.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "ADARx Pharmaceuticals, Inc.",
+    "cik": "1802369",
+    "date_filed": "2026-09-28",
+    "file_name": "edgar/data/1802369/0001193125-26-403094.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "AEON Biopharma, Inc.",
+    "cik": "1837607",
+    "date_filed": "2026-07-15",
+    "file_name": "edgar/data/1837607/0001104659-26-083680.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "AMR Resources Acquisition Corp.",
+    "cik": "2110119",
+    "date_filed": "2026-07-17",
+    "file_name": "edgar/data/2110119/0001213900-26-079231.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "ARC Group Securities Acquisition I",
+    "cik": "2094712",
+    "date_filed": "2026-08-05",
+    "file_name": "edgar/data/2094712/0001493152-26-036100.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Advance JV Group Ltd",
+    "cik": "2089447",
+    "date_filed": "2026-09-01",
+    "file_name": "edgar/data/2089447/0001493152-26-040933.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Advasa Holdings, Inc.",
+    "cik": "2084227",
+    "date_filed": "2026-08-12",
+    "file_name": "edgar/data/2084227/0001493152-26-037407.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Agencia Comercial Spirits Ltd.",
+    "cik": "2060016",
+    "date_filed": "2026-07-20",
+    "file_name": "edgar/data/2060016/0001213900-26-079442.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Alliance Laundry Holdings Inc.",
+    "cik": "1317685",
+    "date_filed": "2026-08-19",
+    "file_name": "edgar/data/1317685/0001104659-26-098828.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Andersen Group Inc.",
+    "cik": "2065708",
+    "date_filed": "2026-08-20",
+    "file_name": "edgar/data/2065708/0001193125-26-359181.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Apnimed, Inc.",
+    "cik": "1745648",
+    "date_filed": "2026-07-31",
+    "file_name": "edgar/data/1745648/0001193125-26-328422.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Aptera Motors Corp",
+    "cik": "1786471",
+    "date_filed": "2026-08-20",
+    "file_name": "edgar/data/1786471/0001493152-26-039508.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Aptevo Therapeutics Inc.",
+    "cik": "1671584",
+    "date_filed": "2026-09-03",
+    "file_name": "edgar/data/1671584/0001193125-26-381149.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Attovia Therapeutics, Inc.",
+    "cik": "2058707",
+    "date_filed": "2026-08-05",
+    "file_name": "edgar/data/2058707/0001193125-26-334997.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Aveanna Healthcare Holdings, Inc.",
+    "cik": "1832332",
+    "date_filed": "2026-08-20",
+    "file_name": "edgar/data/1832332/0001193125-26-359187.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Aveanna Healthcare Holdings, Inc.",
+    "cik": "1832332",
+    "date_filed": "2026-08-24",
+    "file_name": "edgar/data/1832332/0001193125-26-361708.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "B&R Technology Merger Corp.",
+    "cik": "2131350",
+    "date_filed": "2026-07-21",
+    "file_name": "edgar/data/2131350/0001193125-26-310471.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "BOA Acquisition Corp. II",
+    "cik": "2080216",
+    "date_filed": "2026-08-04",
+    "file_name": "edgar/data/2080216/0001193125-26-333135.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Bending Spoons S.p.A.",
+    "cik": "2004711",
+    "date_filed": "2026-07-01",
+    "file_name": "edgar/data/2004711/0001104659-26-079884.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Black Hawk Acquisition Corp",
+    "cik": "2000775",
+    "date_filed": "2026-09-22",
+    "file_name": "edgar/data/2000775/0001829126-26-010292.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Bleichroeder Acquisition Corp. III",
+    "cik": "2128045",
+    "date_filed": "2026-07-07",
+    "file_name": "edgar/data/2128045/0001213900-26-075753.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "BlossomHill Therapeutics, Inc.",
+    "cik": "1839970",
+    "date_filed": "2026-08-07",
+    "file_name": "edgar/data/1839970/0001193125-26-340215.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Bluerock Acquisition Corp. II",
+    "cik": "2098410",
+    "date_filed": "2026-09-25",
+    "file_name": "edgar/data/2098410/0001104659-26-111049.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Braveheart Bio, Inc.",
+    "cik": "2131524",
+    "date_filed": "2026-08-06",
+    "file_name": "edgar/data/2131524/0001628280-26-054354.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "C3is Inc.",
+    "cik": "1951067",
+    "date_filed": "2026-07-28",
+    "file_name": "edgar/data/1951067/0001193125-26-318972.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "COLONY BANKCORP INC",
+    "cik": "711669",
+    "date_filed": "2026-08-27",
+    "file_name": "edgar/data/711669/0001104659-26-102490.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "CURIS INC",
+    "cik": "1108205",
+    "date_filed": "2026-08-13",
+    "file_name": "edgar/data/1108205/0001108205-26-000116.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Catalyst Acquisition Corp.",
+    "cik": "2104391",
+    "date_filed": "2026-07-28",
+    "file_name": "edgar/data/2104391/0001213900-26-081980.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Check-Cap Ltd",
+    "cik": "1610590",
+    "date_filed": "2026-08-27",
+    "file_name": "edgar/data/1610590/0001213900-26-094129.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Churchill Capital Corp XIII",
+    "cik": "2114229",
+    "date_filed": "2026-07-31",
+    "file_name": "edgar/data/2114229/0001213900-26-083832.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Columbus Circle Capital Corp III",
+    "cik": "2123471",
+    "date_filed": "2026-07-09",
+    "file_name": "edgar/data/2123471/0001185185-26-002862.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Columbus Circle Capital Corp III",
+    "cik": "2123471",
+    "date_filed": "2026-07-09",
+    "file_name": "edgar/data/2123471/0001185185-26-002864.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Csquare, Inc.",
+    "cik": "2105398",
+    "date_filed": "2026-07-16",
+    "file_name": "edgar/data/2105398/0001104659-26-084293.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Cuprina Holdings (Cayman) LTD",
+    "cik": "1995704",
+    "date_filed": "2026-09-16",
+    "file_name": "edgar/data/1995704/0001493152-26-042872.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "East West Ave Acquisition Corp.",
+    "cik": "2100704",
+    "date_filed": "2026-08-03",
+    "file_name": "edgar/data/2100704/0001493152-26-035717.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Electra Therapeutics, Inc.",
+    "cik": "2088082",
+    "date_filed": "2026-09-18",
+    "file_name": "edgar/data/2088082/0001193125-26-395670.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Elong Power Holding Ltd.",
+    "cik": "2015691",
+    "date_filed": "2026-07-13",
+    "file_name": "edgar/data/2015691/0001493152-26-032975.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Elong Power Holding Ltd.",
+    "cik": "2015691",
+    "date_filed": "2026-08-04",
+    "file_name": "edgar/data/2015691/0001493152-26-035945.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Everbright Digital Holding Ltd.",
+    "cik": "2024876",
+    "date_filed": "2026-07-28",
+    "file_name": "edgar/data/2024876/0001213900-26-081939.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "First Breach, Inc.",
+    "cik": "1892704",
+    "date_filed": "2026-08-20",
+    "file_name": "edgar/data/1892704/0001493152-26-039415.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "First Breach, Inc.",
+    "cik": "1892704",
+    "date_filed": "2026-08-31",
+    "file_name": "edgar/data/1892704/0001493152-26-040850.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Forgent Power Solutions, Inc.",
+    "cik": "2080126",
+    "date_filed": "2026-07-02",
+    "file_name": "edgar/data/2080126/0001193125-26-294982.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Freedom Metals Acquisition Corp.",
+    "cik": "2129659",
+    "date_filed": "2026-07-08",
+    "file_name": "edgar/data/2129659/0001213900-26-076386.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Game Your Game Inc.",
+    "cik": "2111846",
+    "date_filed": "2026-07-29",
+    "file_name": "edgar/data/2111846/0001213900-26-082494.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Gloo Holdings, Inc.",
+    "cik": "2069785",
+    "date_filed": "2026-07-09",
+    "file_name": "edgar/data/2069785/0001193125-26-299756.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "GreenVector Holdings Ltd",
+    "cik": "2078037",
+    "date_filed": "2026-07-01",
+    "file_name": "edgar/data/2078037/0001493152-26-031463.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Haymaker Acquisition Corp V",
+    "cik": "2111838",
+    "date_filed": "2026-09-18",
+    "file_name": "edgar/data/2111838/0001193125-26-395319.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "IMC Rare Earths Ltd",
+    "cik": "2098395",
+    "date_filed": "2026-07-29",
+    "file_name": "edgar/data/2098395/0001493152-26-035207.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "ITG, Inc./DE/",
+    "cik": "2110117",
+    "date_filed": "2026-07-02",
+    "file_name": "edgar/data/2110117/0001193125-26-292853.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Idaho Copper Corp",
+    "cik": "1263364",
+    "date_filed": "2026-07-06",
+    "file_name": "edgar/data/1263364/0001493152-26-032040.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Inflection Point Acquisition Corp. VIII",
+    "cik": "2146310",
+    "date_filed": "2026-08-31",
+    "file_name": "edgar/data/2146310/0001213900-26-095396.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "InnovAge Holding Corp.",
+    "cik": "1834376",
+    "date_filed": "2026-09-24",
+    "file_name": "edgar/data/1834376/0001104659-26-110065.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Intercont (Cayman) Ltd",
+    "cik": "2018529",
+    "date_filed": "2026-07-07",
+    "file_name": "edgar/data/2018529/0001213900-26-075881.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Ionic Digital Inc.",
+    "cik": "2007691",
+    "date_filed": "2026-07-28",
+    "file_name": "edgar/data/2007691/0001185185-26-003152.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "JATT III Acquisition Corp",
+    "cik": "2145659",
+    "date_filed": "2026-08-26",
+    "file_name": "edgar/data/2145659/0001213900-26-093949.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Janus Living, Inc.",
+    "cik": "2100805",
+    "date_filed": "2026-08-11",
+    "file_name": "edgar/data/2100805/0001104659-26-094083.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Jersey Mike's Subs Inc.",
+    "cik": "2127043",
+    "date_filed": "2026-07-31",
+    "file_name": "edgar/data/2127043/0001193125-26-326453.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Jones Ventures INTL Acquisition1 Corp",
+    "cik": "2129056",
+    "date_filed": "2026-07-15",
+    "file_name": "edgar/data/2129056/0001213900-26-078062.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Jones Ventures INTL Acquisition1 Corp",
+    "cik": "2129056",
+    "date_filed": "2026-07-15",
+    "file_name": "edgar/data/2129056/0001213900-26-078066.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "KIDZ AI Inc.",
+    "cik": "2022308",
+    "date_filed": "2026-07-22",
+    "file_name": "edgar/data/2022308/0001477932-26-004453.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Karman Line Acquisition Corp.",
+    "cik": "2134856",
+    "date_filed": "2026-08-18",
+    "file_name": "edgar/data/2134856/0001829126-26-009017.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Laser Photonics Corp",
+    "cik": "1807887",
+    "date_filed": "2026-09-14",
+    "file_name": "edgar/data/1807887/0001493152-26-042518.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Latigo Biotherapeutics, Inc.",
+    "cik": "2056611",
+    "date_filed": "2026-08-07",
+    "file_name": "edgar/data/2056611/0001193125-26-340329.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Leader's Advantage Acquisition Corp.",
+    "cik": "2109823",
+    "date_filed": "2026-09-21",
+    "file_name": "edgar/data/2109823/0001213900-26-101599.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Lianhe Sowell International Group Ltd",
+    "cik": "2004024",
+    "date_filed": "2026-09-03",
+    "file_name": "edgar/data/2004024/0001213900-26-096975.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Live Oak Acquisition Corp. VI",
+    "cik": "2115191",
+    "date_filed": "2026-09-23",
+    "file_name": "edgar/data/2115191/0001213900-26-102498.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Londian Wason New Energy Tech Inc.",
+    "cik": "2006960",
+    "date_filed": "2026-08-14",
+    "file_name": "edgar/data/2006960/0001193125-26-351136.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Lyntris Inc.",
+    "cik": "2132582",
+    "date_filed": "2026-08-19",
+    "file_name": "edgar/data/2132582/0001193125-26-356916.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Market Technology Acquisition Corp",
+    "cik": "2133136",
+    "date_filed": "2026-07-27",
+    "file_name": "edgar/data/2133136/0001213900-26-081597.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Mercator Acquisition Corp.",
+    "cik": "2106436",
+    "date_filed": "2026-07-10",
+    "file_name": "edgar/data/2106436/0001213900-26-076921.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Meridian3 Industrials Acquisition Corp",
+    "cik": "2136530",
+    "date_filed": "2026-07-02",
+    "file_name": "edgar/data/2136530/0001104659-26-080405.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "NFT Ltd",
+    "cik": "1958713",
+    "date_filed": "2026-08-24",
+    "file_name": "edgar/data/1958713/0001213900-26-092917.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Neutron Holdings, Inc.",
+    "cik": "1699963",
+    "date_filed": "2026-07-02",
+    "file_name": "edgar/data/1699963/0001628280-26-046635.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "NewGenIvf Group Ltd",
+    "cik": "1981662",
+    "date_filed": "2026-09-30",
+    "file_name": "edgar/data/1981662/0001213900-26-104917.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "NorthStrive Acquisition Corp I.",
+    "cik": "2133719",
+    "date_filed": "2026-08-19",
+    "file_name": "edgar/data/2133719/0001213900-26-091457.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Nuburu, Inc.",
+    "cik": "1814215",
+    "date_filed": "2026-07-17",
+    "file_name": "edgar/data/1814215/0001193125-26-306867.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "OceanLight Acquisition Corp",
+    "cik": "2137679",
+    "date_filed": "2026-08-07",
+    "file_name": "edgar/data/2137679/0001829126-26-008478.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Orion180 Insurance Group Inc.",
+    "cik": "2124472",
+    "date_filed": "2026-09-21",
+    "file_name": "edgar/data/2124472/0001628280-26-062794.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Osprey Acquisition Corp. III",
+    "cik": "2113481",
+    "date_filed": "2026-07-02",
+    "file_name": "edgar/data/2113481/0001213900-26-074446.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "PDS Biotechnology Corp",
+    "cik": "1472091",
+    "date_filed": "2026-07-21",
+    "file_name": "edgar/data/1472091/0001140361-26-029135.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Pelican Acquisition II Corp",
+    "cik": "2122392",
+    "date_filed": "2026-07-24",
+    "file_name": "edgar/data/2122392/0001829126-26-007833.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Phoenix Energy One, LLC",
+    "cik": "1818643",
+    "date_filed": "2026-07-07",
+    "file_name": "edgar/data/1818643/0001193125-26-297648.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Pinnacle Acquisition Corp",
+    "cik": "2123955",
+    "date_filed": "2026-08-07",
+    "file_name": "edgar/data/2123955/0001213900-26-086694.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Professional Diversity Network, Inc.",
+    "cik": "1546296",
+    "date_filed": "2026-08-13",
+    "file_name": "edgar/data/1546296/0001437749-26-027508.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "QumulusAI, Inc.",
+    "cik": "2084026",
+    "date_filed": "2026-07-15",
+    "file_name": "edgar/data/2084026/0001437749-26-023622.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "ROZE AI INC.",
+    "cik": "2075335",
+    "date_filed": "2026-09-28",
+    "file_name": "edgar/data/2075335/0001213900-26-104150.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "RUI Holdings Inc",
+    "cik": "2094989",
+    "date_filed": "2026-09-24",
+    "file_name": "edgar/data/2094989/0001185185-26-004253.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Rainier Acquisition Corp",
+    "cik": "2147219",
+    "date_filed": "2026-08-27",
+    "file_name": "edgar/data/2147219/0001104659-26-102498.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Reformation Inc.",
+    "cik": "1787117",
+    "date_filed": "2026-07-30",
+    "file_name": "edgar/data/1787117/0001104659-26-088733.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Republic Power Group Ltd",
+    "cik": "1912884",
+    "date_filed": "2026-08-04",
+    "file_name": "edgar/data/1912884/0001213900-26-085063.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Republic Power Group Ltd",
+    "cik": "1912884",
+    "date_filed": "2026-08-27",
+    "file_name": "edgar/data/1912884/0001213900-26-094237.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Research Alliance Corp IV",
+    "cik": "2137777",
+    "date_filed": "2026-07-13",
+    "file_name": "edgar/data/2137777/0001193125-26-301373.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "SK hynix Inc.",
+    "cik": "2120882",
+    "date_filed": "2026-07-10",
+    "file_name": "edgar/data/2120882/0001193125-26-299963.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Scribe Therapeutics, Inc.",
+    "cik": "1853921",
+    "date_filed": "2026-07-27",
+    "file_name": "edgar/data/1853921/0001193125-26-316503.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Silexion Therapeutics Corp",
+    "cik": "2022416",
+    "date_filed": "2026-08-13",
+    "file_name": "edgar/data/2022416/0001178913-26-004116.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Southern Cross Acquisition I Corp.",
+    "cik": "2116230",
+    "date_filed": "2026-07-21",
+    "file_name": "edgar/data/2116230/0001929980-26-000373.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Southern Cross Acquisition II Corp.",
+    "cik": "2133239",
+    "date_filed": "2026-08-26",
+    "file_name": "edgar/data/2133239/0001929980-26-000507.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Standard Nuclear, Inc.",
+    "cik": "2086716",
+    "date_filed": "2026-07-16",
+    "file_name": "edgar/data/2086716/0001213900-26-078747.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Star Fashion Culture Holdings Ltd",
+    "cik": "2003061",
+    "date_filed": "2026-09-25",
+    "file_name": "edgar/data/2003061/0001213900-26-103256.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "SunScout Holding Ltd",
+    "cik": "2101240",
+    "date_filed": "2026-08-13",
+    "file_name": "edgar/data/2101240/0001213900-26-088617.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "TCGX Acquisition Corp.",
+    "cik": "2137965",
+    "date_filed": "2026-08-06",
+    "file_name": "edgar/data/2137965/0001193125-26-336098.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Three Lions Acquisition Corp.",
+    "cik": "2128462",
+    "date_filed": "2026-09-01",
+    "file_name": "edgar/data/2128462/0001193125-26-378248.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Thunder Bridge Capital Partners V, Ltd.",
+    "cik": "2140030",
+    "date_filed": "2026-08-13",
+    "file_name": "edgar/data/2140030/0001213900-26-089123.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Ticketplus Ltd.",
+    "cik": "2104296",
+    "date_filed": "2026-08-07",
+    "file_name": "edgar/data/2104296/0001213900-26-086641.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Verdera Energy Corp.",
+    "cik": "2111453",
+    "date_filed": "2026-09-15",
+    "file_name": "edgar/data/2111453/0001104659-26-107696.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Vesicor Therapeutics, Inc.",
+    "cik": "1993074",
+    "date_filed": "2026-09-22",
+    "file_name": "edgar/data/1993074/0001829126-26-010292.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Viking Acquisition Corp. II",
+    "cik": "2139246",
+    "date_filed": "2026-07-06",
+    "file_name": "edgar/data/2139246/0001213900-26-075135.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Vogenx, Inc.",
+    "cik": "1903784",
+    "date_filed": "2026-08-12",
+    "file_name": "edgar/data/1903784/0001185185-26-003448.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "WeShop Holdings Ltd",
+    "cik": "2048271",
+    "date_filed": "2026-09-03",
+    "file_name": "edgar/data/2048271/0001493152-26-041390.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Wellchange Holdings Co Ltd",
+    "cik": "1990251",
+    "date_filed": "2026-08-28",
+    "file_name": "edgar/data/1990251/0001213900-26-094944.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "iSpecimen Inc.",
+    "cik": "1558569",
+    "date_filed": "2026-08-07",
+    "file_name": "edgar/data/1558569/0001213900-26-086434.txt",
+    "qtr": "QTR3"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "707 Cayman Holdings Ltd.",
+    "cik": "2018222",
+    "date_filed": "2026-11-13",
+    "file_name": "edgar/data/2018222/0001493152-26-051641.txt",
+    "qtr": "QTR4"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "ABVC BIOPHARMA, INC.",
+    "cik": "1173313",
+    "date_filed": "2026-11-13",
+    "file_name": "edgar/data/1173313/0001213900-26-119788.txt",
+    "qtr": "QTR4"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "ABVC BIOPHARMA, INC.",
+    "cik": "1173313",
+    "date_filed": "2026-11-13",
+    "file_name": "edgar/data/1173313/0001213900-26-119789.txt",
+    "qtr": "QTR4"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "ABVC BIOPHARMA, INC.",
+    "cik": "1173313",
+    "date_filed": "2026-11-13",
+    "file_name": "edgar/data/1173313/0001213900-26-119790.txt",
+    "qtr": "QTR4"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "ABVC BIOPHARMA, INC.",
+    "cik": "1173313",
+    "date_filed": "2026-11-13",
+    "file_name": "edgar/data/1173313/0001213900-26-119791.txt",
+    "qtr": "QTR4"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Accelevation Holdings Corp.",
+    "cik": "2141406",
+    "date_filed": "2026-10-01",
+    "file_name": "edgar/data/2141406/0001628280-26-064097.txt",
+    "qtr": "QTR4"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Amaero Inc.",
+    "cik": "2141616",
+    "date_filed": "2026-10-15",
+    "file_name": "edgar/data/2141616/0001193125-26-422334.txt",
+    "qtr": "QTR4"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Anthropic, PBC",
+    "cik": "2130357",
+    "date_filed": "2026-11-19",
+    "file_name": "edgar/data/2130357/0001628280-26-074944.txt",
+    "qtr": "QTR4"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Aspen Neuroscience, Inc.",
+    "cik": "2124080",
+    "date_filed": "2026-10-30",
+    "file_name": "edgar/data/2124080/0001193125-26-441782.txt",
+    "qtr": "QTR4"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "BHAV Acquisition Corp II",
+    "cik": "2142627",
+    "date_filed": "2026-10-30",
+    "file_name": "edgar/data/2142627/0001213900-26-114072.txt",
+    "qtr": "QTR4"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Bambusa Therapeutics, Inc.",
+    "cik": "2044950",
+    "date_filed": "2026-10-30",
+    "file_name": "edgar/data/2044950/0001628280-26-068563.txt",
+    "qtr": "QTR4"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Basel Medical Group Ltd",
+    "cik": "2004489",
+    "date_filed": "2026-10-08",
+    "file_name": "edgar/data/2004489/0001493152-26-046355.txt",
+    "qtr": "QTR4"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "CITY THERAPEUTICS, INC.",
+    "cik": "2143850",
+    "date_filed": "2026-10-16",
+    "file_name": "edgar/data/2143850/0001104659-26-116636.txt",
+    "qtr": "QTR4"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "CitroTech Inc.",
+    "cik": "894556",
+    "date_filed": "2026-10-22",
+    "file_name": "edgar/data/894556/0001683168-26-008017.txt",
+    "qtr": "QTR4"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "DarkIris Inc.",
+    "cik": "2058584",
+    "date_filed": "2026-10-09",
+    "file_name": "edgar/data/2058584/0001493152-26-046431.txt",
+    "qtr": "QTR4"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "DarkIris Inc.",
+    "cik": "2058584",
+    "date_filed": "2026-10-09",
+    "file_name": "edgar/data/2058584/0001493152-26-046432.txt",
+    "qtr": "QTR4"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Eastern International Ltd.",
+    "cik": "2013320",
+    "date_filed": "2026-11-19",
+    "file_name": "edgar/data/2013320/0001493152-26-053278.txt",
+    "qtr": "QTR4"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Frazier Life Sciences Acquisition Corp. II",
+    "cik": "2153598",
+    "date_filed": "2026-10-14",
+    "file_name": "edgar/data/2153598/0001193125-26-421735.txt",
+    "qtr": "QTR4"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "GEORGIA BANKING CO INC",
+    "cik": "1070965",
+    "date_filed": "2026-10-29",
+    "file_name": "edgar/data/1070965/0001104659-26-119890.txt",
+    "qtr": "QTR4"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "HomesToLife Ltd",
+    "cik": "2023153",
+    "date_filed": "2026-11-13",
+    "file_name": "edgar/data/2023153/0001493152-26-051860.txt",
+    "qtr": "QTR4"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Iambic Therapeutics, Inc.",
+    "cik": "1997038",
+    "date_filed": "2026-10-15",
+    "file_name": "edgar/data/1997038/0001193125-26-422865.txt",
+    "qtr": "QTR4"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Janus Living, Inc.",
+    "cik": "2100805",
+    "date_filed": "2026-11-05",
+    "file_name": "edgar/data/2100805/0001104659-26-123373.txt",
+    "qtr": "QTR4"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Lycia Therapeutics, Inc.",
+    "cik": "1806540",
+    "date_filed": "2026-10-23",
+    "file_name": "edgar/data/1806540/0001628280-26-067048.txt",
+    "qtr": "QTR4"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Medline Inc.",
+    "cik": "2046386",
+    "date_filed": "2026-11-19",
+    "file_name": "edgar/data/2046386/0001193125-26-468586.txt",
+    "qtr": "QTR4"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Megan Holdings Ltd.",
+    "cik": "1995075",
+    "date_filed": "2026-10-29",
+    "file_name": "edgar/data/1995075/0001213900-26-113588.txt",
+    "qtr": "QTR4"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "OHB Pediatrics Ltd.",
+    "cik": "2148593",
+    "date_filed": "2026-11-04",
+    "file_name": "edgar/data/2148593/0001193125-26-447320.txt",
+    "qtr": "QTR4"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Ocean Power Technologies, Inc.",
+    "cik": "1378140",
+    "date_filed": "2026-11-16",
+    "file_name": "edgar/data/1378140/0001493152-26-051974.txt",
+    "qtr": "QTR4"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Parabolic Technologies, Inc.",
+    "cik": "1826011",
+    "date_filed": "2026-11-06",
+    "file_name": "edgar/data/1826011/0001493152-26-050319.txt",
+    "qtr": "QTR4"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Pine Tree Acquisition Corp.",
+    "cik": "2076561",
+    "date_filed": "2026-10-06",
+    "file_name": "edgar/data/2076561/0001477932-26-006063.txt",
+    "qtr": "QTR4"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Research Alliance Corp III",
+    "cik": "2118032",
+    "date_filed": "2026-11-04",
+    "file_name": "edgar/data/2118032/0001193125-26-447320.txt",
+    "qtr": "QTR4"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Retension Pharmaceuticals, Inc.",
+    "cik": "2002988",
+    "date_filed": "2026-10-09",
+    "file_name": "edgar/data/2002988/0001213900-26-108587.txt",
+    "qtr": "QTR4"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "SPACCircle Acquisition Corp.",
+    "cik": "2131303",
+    "date_filed": "2026-10-27",
+    "file_name": "edgar/data/2131303/0001185185-26-005030.txt",
+    "qtr": "QTR4"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Southport Acquisition Corp. II",
+    "cik": "2148436",
+    "date_filed": "2026-10-02",
+    "file_name": "edgar/data/2148436/0001185185-26-004535.txt",
+    "qtr": "QTR4"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "Sunshine Biopharma Inc.",
+    "cik": "1402328",
+    "date_filed": "2026-10-09",
+    "file_name": "edgar/data/1402328/0001683168-26-007757.txt",
+    "qtr": "QTR4"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "TCGX Acquisition Corp. II",
+    "cik": "2149916",
+    "date_filed": "2026-10-16",
+    "file_name": "edgar/data/2149916/0001193125-26-424217.txt",
+    "qtr": "QTR4"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "TRex Bio, Inc.",
+    "cik": "2139097",
+    "date_filed": "2026-10-09",
+    "file_name": "edgar/data/2139097/0001193125-26-419203.txt",
+    "qtr": "QTR4"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "WINDWARD BIO GROUP AG",
+    "cik": "2145089",
+    "date_filed": "2026-11-16",
+    "file_name": "edgar/data/2145089/0001193125-26-461203.txt",
+    "qtr": "QTR4"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "WeShop Holdings Ltd",
+    "cik": "2048271",
+    "date_filed": "2026-10-13",
+    "file_name": "edgar/data/2048271/0001493152-26-046878.txt",
+    "qtr": "QTR4"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "WeShop Holdings Ltd",
+    "cik": "2048271",
+    "date_filed": "2026-10-13",
+    "file_name": "edgar/data/2048271/0001493152-26-046880.txt",
+    "qtr": "QTR4"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "reAlpha Tech Corp.",
+    "cik": "1859199",
+    "date_filed": "2026-11-04",
+    "file_name": "edgar/data/1859199/0001213900-26-115755.txt",
+    "qtr": "QTR4"
+  },
+  {
+    "form_type": "424B4",
+    "company_name": "vVARDIS Holding AG",
+    "cik": "1907709",
+    "date_filed": "2026-11-16",
+    "file_name": "edgar/data/1907709/0001140361-26-043938.txt",
+    "qtr": "QTR4"
+  }
+]

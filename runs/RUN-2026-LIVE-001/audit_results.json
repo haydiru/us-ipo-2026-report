@@ -1,0 +1,1992 @@
+{
+  "audit_passed": true,
+  "totals": {
+    "total_records": 283,
+    "total_gross_decimal": "240107864980.94",
+    "total_gross_recompute": "240107864980.94"
+  },
+  "duplicate_errors": [],
+  "records_audited": [
+    {
+      "cik": "0002085485",
+      "gross_primary": "200000000.00",
+      "gross_recompute": "200000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002080921",
+      "gross_primary": "199999998.00",
+      "gross_recompute": "199999998.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002099906",
+      "gross_primary": "200000000.00",
+      "gross_recompute": "200000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002020932",
+      "gross_primary": "200000000.00",
+      "gross_recompute": "200000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002035832",
+      "gross_primary": "317700000.00",
+      "gross_recompute": "317700000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002083989",
+      "gross_primary": "261000000.00",
+      "gross_recompute": "261000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002083910",
+      "gross_primary": "240000000.00",
+      "gross_recompute": "240000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002092897",
+      "gross_primary": "225000000.00",
+      "gross_recompute": "225000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002086545",
+      "gross_primary": "220000000.00",
+      "gross_recompute": "220000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002096900",
+      "gross_primary": "250000000.00",
+      "gross_recompute": "250000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002097288",
+      "gross_primary": "100000000.00",
+      "gross_recompute": "100000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0001740604",
+      "gross_primary": "212788710.00",
+      "gross_recompute": "212788710.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002079720",
+      "gross_primary": "20000002.50",
+      "gross_recompute": "20000002.50",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002082847",
+      "gross_primary": "125000000.00",
+      "gross_recompute": "125000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002085187",
+      "gross_primary": "330650000.00",
+      "gross_recompute": "330650000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002076975",
+      "gross_primary": "200000000.00",
+      "gross_recompute": "200000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002100125",
+      "gross_primary": "200000000.00",
+      "gross_recompute": "200000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002089536",
+      "gross_primary": "100000000.00",
+      "gross_recompute": "100000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002094073",
+      "gross_primary": "125000000.00",
+      "gross_recompute": "125000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002091024",
+      "gross_primary": "260000000.00",
+      "gross_recompute": "260000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002088805",
+      "gross_primary": "400000000.00",
+      "gross_recompute": "400000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002095161",
+      "gross_primary": "250000000.00",
+      "gross_recompute": "250000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0001861123",
+      "gross_primary": "381196800.00",
+      "gross_recompute": "381196800.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0001693736",
+      "gross_primary": "747250000.00",
+      "gross_recompute": "747250000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0001788451",
+      "gross_primary": "199999985.00",
+      "gross_recompute": "199999985.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002090452",
+      "gross_primary": "200000000.00",
+      "gross_recompute": "200000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002080126",
+      "gross_primary": "2138850000.00",
+      "gross_recompute": "2138850000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0001850733",
+      "gross_primary": "100000000.00",
+      "gross_recompute": "100000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0001633369",
+      "gross_primary": "395641680.00",
+      "gross_recompute": "395641680.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002099232",
+      "gross_primary": "100000000.00",
+      "gross_recompute": "100000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002091484",
+      "gross_primary": "200000000.00",
+      "gross_recompute": "200000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002100782",
+      "gross_primary": "400000000.00",
+      "gross_recompute": "400000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002098712",
+      "gross_primary": "220000000.00",
+      "gross_recompute": "220000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002039972",
+      "gross_primary": "59999400.00",
+      "gross_recompute": "59999400.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002089982",
+      "gross_primary": "250000000.00",
+      "gross_recompute": "250000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002099656",
+      "gross_primary": "4975000.00",
+      "gross_recompute": "4975000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002099093",
+      "gross_primary": "210000000.00",
+      "gross_recompute": "210000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002091176",
+      "gross_primary": "350000000.00",
+      "gross_recompute": "350000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002101135",
+      "gross_primary": "200000000.00",
+      "gross_recompute": "200000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002084396",
+      "gross_primary": "300000000.00",
+      "gross_recompute": "300000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002102041",
+      "gross_primary": "220000000.00",
+      "gross_recompute": "220000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002077785",
+      "gross_primary": "150000000.00",
+      "gross_recompute": "150000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002039273",
+      "gross_primary": "40000000.00",
+      "gross_recompute": "40000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002100805",
+      "gross_primary": "748125000.00",
+      "gross_recompute": "748125000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002086524",
+      "gross_primary": "120000000.00",
+      "gross_recompute": "120000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002082119",
+      "gross_primary": "300000000.00",
+      "gross_recompute": "300000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002102713",
+      "gross_primary": "200000000.00",
+      "gross_recompute": "200000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002087361",
+      "gross_primary": "270000000.00",
+      "gross_recompute": "270000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002097376",
+      "gross_primary": "261000000.00",
+      "gross_recompute": "261000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002046386",
+      "gross_primary": "2130000000.00",
+      "gross_recompute": "2130000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0001995075",
+      "gross_primary": "5000000.00",
+      "gross_recompute": "5000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002107724",
+      "gross_primary": "200000000.00",
+      "gross_recompute": "200000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002062583",
+      "gross_primary": "560000000.00",
+      "gross_recompute": "560000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002094265",
+      "gross_primary": "313200000.00",
+      "gross_recompute": "313200000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002093484",
+      "gross_primary": "175000000.00",
+      "gross_recompute": "175000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0001696556",
+      "gross_primary": "197949762.00",
+      "gross_recompute": "197949762.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002088325",
+      "gross_primary": "250000000.00",
+      "gross_recompute": "250000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002101562",
+      "gross_primary": "150000000.00",
+      "gross_recompute": "150000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002080845",
+      "gross_primary": "879795424.00",
+      "gross_recompute": "879795424.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002075320",
+      "gross_primary": "55391657.49",
+      "gross_recompute": "55391657.49",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002108164",
+      "gross_primary": "120000000.00",
+      "gross_recompute": "120000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002093912",
+      "gross_primary": "220000000.00",
+      "gross_recompute": "220000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002087446",
+      "gross_primary": "130000000.00",
+      "gross_recompute": "130000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0001903508",
+      "gross_primary": "50837500.00",
+      "gross_recompute": "50837500.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002083217",
+      "gross_primary": "200000000.00",
+      "gross_recompute": "200000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002091712",
+      "gross_primary": "100000000.00",
+      "gross_recompute": "100000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002077709",
+      "gross_primary": "24000000.00",
+      "gross_recompute": "24000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0001943421",
+      "gross_primary": "5000002.00",
+      "gross_recompute": "5000002.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002065636",
+      "gross_primary": "540000000.00",
+      "gross_recompute": "540000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002081300",
+      "gross_primary": "150000000.00",
+      "gross_recompute": "150000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002105838",
+      "gross_primary": "150000000.00",
+      "gross_recompute": "150000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002068385",
+      "gross_primary": "124999980.00",
+      "gross_recompute": "124999980.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002086263",
+      "gross_primary": "220000000.00",
+      "gross_recompute": "220000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002091222",
+      "gross_primary": "200000000.00",
+      "gross_recompute": "200000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002097364",
+      "gross_primary": "200000000.00",
+      "gross_recompute": "200000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002098242",
+      "gross_primary": "400000000.00",
+      "gross_recompute": "400000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0001778922",
+      "gross_primary": "150000000.00",
+      "gross_recompute": "150000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002092574",
+      "gross_primary": "15000000.00",
+      "gross_recompute": "15000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0001756064",
+      "gross_primary": "681473620.00",
+      "gross_recompute": "681473620.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002098780",
+      "gross_primary": "200000000.00",
+      "gross_recompute": "200000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002098669",
+      "gross_primary": "100000000.00",
+      "gross_recompute": "100000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0001827635",
+      "gross_primary": "384379000.00",
+      "gross_recompute": "384379000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0001606242",
+      "gross_primary": "684272360.00",
+      "gross_recompute": "684272360.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002081536",
+      "gross_primary": "100000000.00",
+      "gross_recompute": "100000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002083946",
+      "gross_primary": "125000000.00",
+      "gross_recompute": "125000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002083493",
+      "gross_primary": "200000000.00",
+      "gross_recompute": "200000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002088103",
+      "gross_primary": "100000000.00",
+      "gross_recompute": "100000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002088807",
+      "gross_primary": "200000000.00",
+      "gross_recompute": "200000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002086587",
+      "gross_primary": "629000000.00",
+      "gross_recompute": "629000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002111542",
+      "gross_primary": "200000000.00",
+      "gross_recompute": "200000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002096300",
+      "gross_primary": "216000000.00",
+      "gross_recompute": "216000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002096362",
+      "gross_primary": "200000000.00",
+      "gross_recompute": "200000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0001851491",
+      "gross_primary": "285865960.00",
+      "gross_recompute": "285865960.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002073515",
+      "gross_primary": "105000000.00",
+      "gross_recompute": "105000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002082526",
+      "gross_primary": "125000000.00",
+      "gross_recompute": "125000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002104204",
+      "gross_primary": "191250000.00",
+      "gross_recompute": "191250000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002125551",
+      "gross_primary": "200000000.00",
+      "gross_recompute": "200000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002112457",
+      "gross_primary": "3112500.00",
+      "gross_recompute": "3112500.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002101393",
+      "gross_primary": "125000000.00",
+      "gross_recompute": "125000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002093524",
+      "gross_primary": "90000000.00",
+      "gross_recompute": "90000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002102123",
+      "gross_primary": "150000000.00",
+      "gross_recompute": "150000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002118195",
+      "gross_primary": "650000000.00",
+      "gross_recompute": "650000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002128115",
+      "gross_primary": "345000000.00",
+      "gross_recompute": "345000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002093536",
+      "gross_primary": "1134000000.00",
+      "gross_recompute": "1134000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0001540171",
+      "gross_primary": "300000006.00",
+      "gross_recompute": "300000006.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002081515",
+      "gross_primary": "274000000.00",
+      "gross_recompute": "274000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002100161",
+      "gross_primary": "1750000000.00",
+      "gross_recompute": "1750000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002070542",
+      "gross_primary": "55000001.10",
+      "gross_recompute": "55000001.10",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002095443",
+      "gross_primary": "125000000.00",
+      "gross_recompute": "125000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002098707",
+      "gross_primary": "12000000.00",
+      "gross_recompute": "12000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002044817",
+      "gross_primary": "200000000.00",
+      "gross_recompute": "200000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002087965",
+      "gross_primary": "100000000.00",
+      "gross_recompute": "100000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002079999",
+      "gross_primary": "730000000.00",
+      "gross_recompute": "730000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002126043",
+      "gross_primary": "250000000.00",
+      "gross_recompute": "250000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002021728",
+      "gross_primary": "5550000000.00",
+      "gross_recompute": "5550000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002114227",
+      "gross_primary": "360000000.00",
+      "gross_recompute": "360000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002115404",
+      "gross_primary": "220000000.00",
+      "gross_recompute": "220000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002066836",
+      "gross_primary": "189622460.00",
+      "gross_recompute": "189622460.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002111038",
+      "gross_primary": "150000000.00",
+      "gross_recompute": "150000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002107018",
+      "gross_primary": "330000000.00",
+      "gross_recompute": "330000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0001966041",
+      "gross_primary": "51000000.00",
+      "gross_recompute": "51000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002110029",
+      "gross_primary": "600000005.50",
+      "gross_recompute": "600000005.50",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002104882",
+      "gross_primary": "185000000.00",
+      "gross_recompute": "185000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002101698",
+      "gross_primary": "119999992.00",
+      "gross_recompute": "119999992.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002085932",
+      "gross_primary": "150000000.00",
+      "gross_recompute": "150000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0001960355",
+      "gross_primary": "19375000.00",
+      "gross_recompute": "19375000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0001853868",
+      "gross_primary": "1890000000.00",
+      "gross_recompute": "1890000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0001531193",
+      "gross_primary": "68750000.00",
+      "gross_recompute": "68750000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0001925062",
+      "gross_primary": "142200000.00",
+      "gross_recompute": "142200000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002097986",
+      "gross_primary": "100000000.00",
+      "gross_recompute": "100000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002121703",
+      "gross_primary": "150000000.00",
+      "gross_recompute": "150000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002131853",
+      "gross_primary": "200000000.00",
+      "gross_recompute": "200000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002116105",
+      "gross_primary": "150000000.00",
+      "gross_recompute": "150000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0000794685",
+      "gross_primary": "56000000.00",
+      "gross_recompute": "56000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0001898718",
+      "gross_primary": "478723395.00",
+      "gross_recompute": "478723395.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0000886982",
+      "gross_primary": "200000000.00",
+      "gross_recompute": "200000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002111762",
+      "gross_primary": "400000000.00",
+      "gross_recompute": "400000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002086438",
+      "gross_primary": "312000000.00",
+      "gross_recompute": "312000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002093507",
+      "gross_primary": "65000000.00",
+      "gross_recompute": "65000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002021880",
+      "gross_primary": "210400000.00",
+      "gross_recompute": "210400000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0001750704",
+      "gross_primary": "416000000.00",
+      "gross_recompute": "416000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002114044",
+      "gross_primary": "301500000.00",
+      "gross_recompute": "301500000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002109150",
+      "gross_primary": "270000000.00",
+      "gross_recompute": "270000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002105274",
+      "gross_primary": "175000000.00",
+      "gross_recompute": "175000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002122505",
+      "gross_primary": "220000000.00",
+      "gross_recompute": "220000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002090441",
+      "gross_primary": "150000000.00",
+      "gross_recompute": "150000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002128739",
+      "gross_primary": "150000000.00",
+      "gross_recompute": "150000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002112446",
+      "gross_primary": "3090000.00",
+      "gross_recompute": "3090000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002095297",
+      "gross_primary": "200000000.00",
+      "gross_recompute": "200000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002096997",
+      "gross_primary": "625000000.00",
+      "gross_recompute": "625000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002123613",
+      "gross_primary": "400000000.00",
+      "gross_recompute": "400000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002102771",
+      "gross_primary": "250000000.00",
+      "gross_recompute": "250000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0001919776",
+      "gross_primary": "45000000.00",
+      "gross_recompute": "45000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002079272",
+      "gross_primary": "192954520.00",
+      "gross_recompute": "192954520.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0001850351",
+      "gross_primary": "437000000.00",
+      "gross_recompute": "437000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0001925283",
+      "gross_primary": "420999760.00",
+      "gross_recompute": "420999760.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002104177",
+      "gross_primary": "150000000.00",
+      "gross_recompute": "150000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002098430",
+      "gross_primary": "2232692316.00",
+      "gross_recompute": "2232692316.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002071668",
+      "gross_primary": "200000000.00",
+      "gross_recompute": "200000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002080087",
+      "gross_primary": "100000000.00",
+      "gross_recompute": "100000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002087398",
+      "gross_primary": "200000000.00",
+      "gross_recompute": "200000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002083526",
+      "gross_primary": "22800000.00",
+      "gross_recompute": "22800000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0001489993",
+      "gross_primary": "150000000.00",
+      "gross_recompute": "150000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002109876",
+      "gross_primary": "60000000.00",
+      "gross_recompute": "60000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002099767",
+      "gross_primary": "175000000.00",
+      "gross_recompute": "175000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0001926314",
+      "gross_primary": "200000000.00",
+      "gross_recompute": "200000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002090787",
+      "gross_primary": "200000000.00",
+      "gross_recompute": "200000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0001882782",
+      "gross_primary": "279000000.00",
+      "gross_recompute": "279000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002027329",
+      "gross_primary": "62500000.00",
+      "gross_recompute": "62500000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002026053",
+      "gross_primary": "405169600.00",
+      "gross_recompute": "405169600.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0001657677",
+      "gross_primary": "670000000.00",
+      "gross_recompute": "670000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002099095",
+      "gross_primary": "160000000.00",
+      "gross_recompute": "160000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002088626",
+      "gross_primary": "60000000.00",
+      "gross_recompute": "60000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002002660",
+      "gross_primary": "2025848000.00",
+      "gross_recompute": "2025848000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002065661",
+      "gross_primary": "200000000.00",
+      "gross_recompute": "200000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002110105",
+      "gross_primary": "1680000000.00",
+      "gross_recompute": "1680000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002102155",
+      "gross_primary": "200000000.00",
+      "gross_recompute": "200000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002085177",
+      "gross_primary": "200000000.00",
+      "gross_recompute": "200000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002104879",
+      "gross_primary": "200000000.00",
+      "gross_recompute": "200000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002123969",
+      "gross_primary": "250000000.00",
+      "gross_recompute": "250000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002095743",
+      "gross_primary": "63333289.00",
+      "gross_recompute": "63333289.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002118032",
+      "gross_primary": "100000000.00",
+      "gross_recompute": "100000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002067674",
+      "gross_primary": "115000000.00",
+      "gross_recompute": "115000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0001181412",
+      "gross_primary": "74999999925.00",
+      "gross_recompute": "74999999925.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0001934114",
+      "gross_primary": "186666669.00",
+      "gross_recompute": "186666669.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002042347",
+      "gross_primary": "254880000.00",
+      "gross_recompute": "254880000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002083452",
+      "gross_primary": "200000000.00",
+      "gross_recompute": "200000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002096861",
+      "gross_primary": "213000000.00",
+      "gross_recompute": "213000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002123475",
+      "gross_primary": "200000000.00",
+      "gross_recompute": "200000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002094076",
+      "gross_primary": "100000000.00",
+      "gross_recompute": "100000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002091017",
+      "gross_primary": "270000000.00",
+      "gross_recompute": "270000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002096755",
+      "gross_primary": "150000000.00",
+      "gross_recompute": "150000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002094919",
+      "gross_primary": "140000000.00",
+      "gross_recompute": "140000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0001973062",
+      "gross_primary": "15000000.00",
+      "gross_recompute": "15000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002081690",
+      "gross_primary": "100000000.00",
+      "gross_recompute": "100000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0001921603",
+      "gross_primary": "200200000.00",
+      "gross_recompute": "200200000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002101470",
+      "gross_primary": "200000000.00",
+      "gross_recompute": "200000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002088896",
+      "gross_primary": "1017857157.00",
+      "gross_recompute": "1017857157.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0001859836",
+      "gross_primary": "280000000.00",
+      "gross_recompute": "280000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002130386",
+      "gross_primary": "200000000.00",
+      "gross_recompute": "200000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0001802369",
+      "gross_primary": "446250000.00",
+      "gross_recompute": "446250000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002110119",
+      "gross_primary": "250000000.00",
+      "gross_recompute": "250000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002094712",
+      "gross_primary": "105000000.00",
+      "gross_recompute": "105000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002084227",
+      "gross_primary": "1880927140.00",
+      "gross_recompute": "1880927140.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002060016",
+      "gross_primary": "100000000.00",
+      "gross_recompute": "100000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002065708",
+      "gross_primary": "188516108.00",
+      "gross_recompute": "188516108.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0001745648",
+      "gross_primary": "192000000.00",
+      "gross_recompute": "192000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002058707",
+      "gross_primary": "289000000.00",
+      "gross_recompute": "289000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002080216",
+      "gross_primary": "125000000.00",
+      "gross_recompute": "125000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002004711",
+      "gross_primary": "290000000.00",
+      "gross_recompute": "290000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002128045",
+      "gross_primary": "300000000.00",
+      "gross_recompute": "300000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0001839970",
+      "gross_primary": "150000000.00",
+      "gross_recompute": "150000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002131524",
+      "gross_primary": "382500000.00",
+      "gross_recompute": "382500000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002104391",
+      "gross_primary": "200000000.00",
+      "gross_recompute": "200000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002114229",
+      "gross_primary": "360000000.00",
+      "gross_recompute": "360000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002123471",
+      "gross_primary": "400000000.00",
+      "gross_recompute": "400000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002105398",
+      "gross_primary": "1050000000.00",
+      "gross_recompute": "1050000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002100704",
+      "gross_primary": "100000000.00",
+      "gross_recompute": "100000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002088082",
+      "gross_primary": "350000010.00",
+      "gross_recompute": "350000010.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0001892704",
+      "gross_primary": "200000000.00",
+      "gross_recompute": "200000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002129659",
+      "gross_primary": "275000000.00",
+      "gross_recompute": "275000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002111846",
+      "gross_primary": "321454600.00",
+      "gross_recompute": "321454600.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002111838",
+      "gross_primary": "250000000.00",
+      "gross_recompute": "250000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002098395",
+      "gross_primary": "50000000.00",
+      "gross_recompute": "50000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002110117",
+      "gross_primary": "312195136.00",
+      "gross_recompute": "312195136.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002146310",
+      "gross_primary": "250000000.00",
+      "gross_recompute": "250000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002007691",
+      "gross_primary": "216003280.00",
+      "gross_recompute": "216003280.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002145659",
+      "gross_primary": "2340000.00",
+      "gross_recompute": "2340000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002127043",
+      "gross_primary": "1000000003.00",
+      "gross_recompute": "1000000003.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002129056",
+      "gross_primary": "200000000.00",
+      "gross_recompute": "200000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002134856",
+      "gross_primary": "200000000.00",
+      "gross_recompute": "200000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002056611",
+      "gross_primary": "345600000.00",
+      "gross_recompute": "345600000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002109823",
+      "gross_primary": "150000000.00",
+      "gross_recompute": "150000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002115191",
+      "gross_primary": "200000000.00",
+      "gross_recompute": "200000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002006960",
+      "gross_primary": "94285708.00",
+      "gross_recompute": "94285708.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002132582",
+      "gross_primary": "200000000.00",
+      "gross_recompute": "200000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002133136",
+      "gross_primary": "200000000.00",
+      "gross_recompute": "200000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002106436",
+      "gross_primary": "150000000.00",
+      "gross_recompute": "150000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002136530",
+      "gross_primary": "175000000.00",
+      "gross_recompute": "175000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0001699963",
+      "gross_primary": "173913050.00",
+      "gross_recompute": "173913050.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002133719",
+      "gross_primary": "200000000.00",
+      "gross_recompute": "200000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002137679",
+      "gross_primary": "200000000.00",
+      "gross_recompute": "200000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002124472",
+      "gross_primary": "240000000.00",
+      "gross_recompute": "240000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002113481",
+      "gross_primary": "261000000.00",
+      "gross_recompute": "261000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002122392",
+      "gross_primary": "150000000.00",
+      "gross_recompute": "150000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002123955",
+      "gross_primary": "200000000.00",
+      "gross_recompute": "200000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002084026",
+      "gross_primary": "789450620.00",
+      "gross_recompute": "789450620.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002075335",
+      "gross_primary": "200000000.00",
+      "gross_recompute": "200000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002147219",
+      "gross_primary": "75000000.00",
+      "gross_recompute": "75000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0001787117",
+      "gross_primary": "210937500.00",
+      "gross_recompute": "210937500.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002137777",
+      "gross_primary": "100000000.00",
+      "gross_recompute": "100000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002120882",
+      "gross_primary": "1490000000.00",
+      "gross_recompute": "1490000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0001853921",
+      "gross_primary": "128700000.00",
+      "gross_recompute": "128700000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002116230",
+      "gross_primary": "30000000.00",
+      "gross_recompute": "30000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002133239",
+      "gross_primary": "150000000.00",
+      "gross_recompute": "150000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002086716",
+      "gross_primary": "150000000.00",
+      "gross_recompute": "150000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002101240",
+      "gross_primary": "50000000.00",
+      "gross_recompute": "50000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002137965",
+      "gross_primary": "100000000.00",
+      "gross_recompute": "100000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002128462",
+      "gross_primary": "100000000.00",
+      "gross_recompute": "100000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002140030",
+      "gross_primary": "522000000.00",
+      "gross_recompute": "522000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002104296",
+      "gross_primary": "80000000.00",
+      "gross_recompute": "80000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002139246",
+      "gross_primary": "200000000.00",
+      "gross_recompute": "200000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0001903784",
+      "gross_primary": "81250000.00",
+      "gross_recompute": "81250000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002048271",
+      "gross_primary": "200000000.00",
+      "gross_recompute": "200000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002018222",
+      "gross_primary": "5200000.00",
+      "gross_recompute": "5200000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002141406",
+      "gross_primary": "540000000.00",
+      "gross_recompute": "540000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002141616",
+      "gross_primary": "20000002.75",
+      "gross_recompute": "20000002.75",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002130357",
+      "gross_primary": "81340000000.00",
+      "gross_recompute": "81340000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002124080",
+      "gross_primary": "140625000.00",
+      "gross_recompute": "140625000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002044950",
+      "gross_primary": "168888880.00",
+      "gross_recompute": "168888880.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002143850",
+      "gross_primary": "199999998.00",
+      "gross_recompute": "199999998.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002058584",
+      "gross_primary": "1294509.60",
+      "gross_recompute": "1294509.60",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002013320",
+      "gross_primary": "3600000.00",
+      "gross_recompute": "3600000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002153598",
+      "gross_primary": "100000000.00",
+      "gross_recompute": "100000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0001070965",
+      "gross_primary": "141480320.00",
+      "gross_recompute": "141480320.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0001997038",
+      "gross_primary": "150000000.00",
+      "gross_recompute": "150000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0001806540",
+      "gross_primary": "317520000.00",
+      "gross_recompute": "317520000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002076561",
+      "gross_primary": "100000000.00",
+      "gross_recompute": "100000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002002988",
+      "gross_primary": "45000000.00",
+      "gross_recompute": "45000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002149916",
+      "gross_primary": "100000000.00",
+      "gross_recompute": "100000000.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002139097",
+      "gross_primary": "116666676.00",
+      "gross_recompute": "116666676.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0002145089",
+      "gross_primary": "174999989.00",
+      "gross_recompute": "174999989.00",
+      "delta": "0.00",
+      "passed": true
+    },
+    {
+      "cik": "0001907709",
+      "gross_primary": "175000014.00",
+      "gross_recompute": "175000014.00",
+      "delta": "0.00",
+      "passed": true
+    }
+  ]
+}

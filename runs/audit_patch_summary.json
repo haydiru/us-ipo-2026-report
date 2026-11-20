@@ -1,0 +1,26 @@
+{
+ "kept": 241,
+ "spac": 116,
+ "ops": 125,
+ "tot": "253547999098.85",
+ "tot_ops": "233036398218.25",
+ "tot_spac": "20511600880.60",
+ "flagged": 83,
+ "removed": 42,
+ "changes": {
+  "Pricing Date": 119,
+  "Base Shares Offered": 26,
+  "Accession No.": 12,
+  "Exchange": 1,
+  "Offer Price": 25
+ },
+ "removed_by": {
+  "WRONG_VENUE_NYSE_AMERICAN": 11,
+  "DIRECT_LISTING_RESALE": 18,
+  "UNVERIFIABLE_NO_CACHED_FILING": 2,
+  "FOLLOW_ON_ALREADY_LISTED": 7,
+  "NON_EQUITY_OR_FUND": 4
+ },
+ "ev_dropped": 198,
+ "ev_added": 98
+}

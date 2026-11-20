@@ -1,0 +1,13 @@
+{
+  "run_id": "RUN-2026-LIVE-001",
+  "as_of_date": "2026-11-20",
+  "rule_hash": "f41394494cf8a8a69cc1bde90abfdc2d3cdeea1a3f44b87d4983282461672c72",
+  "tool_versions": {
+    "python": "3.13",
+    "pydantic": "2.13.4",
+    "xlsxwriter": "3.3.3"
+  },
+  "edgar_user_agent": "IPOLedgerAgent research@ipoledger.internal",
+  "status": "ready",
+  "created_at": "2026-11-20T12:00:00"
+}

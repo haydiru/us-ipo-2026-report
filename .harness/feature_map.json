@@ -1,0 +1,44 @@
+{
+  "stages": {
+    "S0_init": {
+      "entry": "ipo-ledger init --as-of 2026-11-20",
+      "expected_outputs": ["manifest.json"],
+      "expected_states": ["ready", "config_invalid"]
+    },
+    "S1_discover": {
+      "entry": "ipo-ledger discover",
+      "seed": "tests/fixtures/edgar_index_2026_sample/",
+      "expected_outputs": ["candidates.parquet", "exclusions.csv", "unmatched_calendar.csv"],
+      "expected_states": ["done", "partial_failure", "rate_limited"]
+    },
+    "S2_extract": {
+      "entry": "ipo-ledger extract",
+      "seed": "tests/fixtures/prospectuses/",
+      "expected_outputs": ["extracted/*.json"],
+      "expected_states": ["Extracted", "ExtractionFailed"]
+    },
+    "S3_crosscheck": {
+      "entry": "ipo-ledger crosscheck",
+      "seed": "tests/fixtures/secondary/",
+      "expected_outputs": ["crosschecks/*.json", "discrepancies.csv"],
+      "expected_states": ["Verified", "Conflicted", "SingleSource"]
+    },
+    "S4_audit": {
+      "entry": "ipo-ledger audit",
+      "expected_outputs": ["audit_results.json"],
+      "expected_states": ["passed", "failed"]
+    },
+    "S5_build": {
+      "entry": "ipo-ledger build",
+      "seed": "tests/fixtures/ledger_sample.sqlite",
+      "expected_outputs": ["us_ipo_report_2026.xlsx"],
+      "sheets": ["IPO_Report", "Audit_Summary", "Discrepancy_Log", "Exclusions", "Source_Evidence", "Run_Metadata"],
+      "expected_states": ["written", "schema_violation"]
+    },
+    "S6_gate": {
+      "entry": "ipo-ledger gate",
+      "expected_outputs": ["gate_result.json"],
+      "expected_states": ["VERIFIED", "DRAFT_INCOMPLETE"]
+    }
+  }
+}
